@@ -1,0 +1,148 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1203318901871699}
+  m_IsPrefabAsset: 1
+--- !u!1 &1203318901871699
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4968182799301308}
+  - component: {fileID: 114783052481134586}
+  m_Layer: 0
+  m_Name: hdfontatlas
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4968182799301308
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1203318901871699}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114783052481134586
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1203318901871699}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03f7db9a480b403690a4a83220213122, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  material: {fileID: 2100000, guid: b087f385f55513845881e977c7d1b069, type: 2}
+  sprites:
+  - name: Agenda_Bold_Floater_60
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 172
+      width: 508
+      height: 403
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 172
+      width: 508
+      height: 403
+    rotated: 0
+    paddingLeft: 0.003937008
+    paddingRight: 0.003937008
+    paddingTop: 0.004962779
+    paddingBottom: 0.26550868
+  - name: Agenda_Bold_Floater_60_Blue
+    outer:
+      serializedVersion: 2
+      x: 1005
+      y: 621
+      width: 508
+      height: 403
+    inner:
+      serializedVersion: 2
+      x: 1005
+      y: 621
+      width: 508
+      height: 403
+    rotated: 0
+    paddingLeft: 0.003937008
+    paddingRight: 0.003937008
+    paddingTop: 0.004962779
+    paddingBottom: 0.26550868
+  - name: Agenda_Bold_Floater_60_Gold
+    outer:
+      serializedVersion: 2
+      x: 1514
+      y: 621
+      width: 508
+      height: 403
+    inner:
+      serializedVersion: 2
+      x: 1514
+      y: 621
+      width: 508
+      height: 403
+    rotated: 0
+    paddingLeft: 0.003937008
+    paddingRight: 0.003937008
+    paddingTop: 0.004962779
+    paddingBottom: 0.26550868
+  - name: Agenda_Bold_Floater_60_Violet
+    outer:
+      serializedVersion: 2
+      x: 1005
+      y: 217
+      width: 508
+      height: 403
+    inner:
+      serializedVersion: 2
+      x: 1005
+      y: 217
+      width: 508
+      height: 403
+    rotated: 0
+    paddingLeft: 0.003937008
+    paddingRight: 0.003937008
+    paddingTop: 0.004962779
+    paddingBottom: 0.26550868
+  - name: Agenda_Bold_New_Best_90
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 576
+      width: 1004
+      height: 448
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 576
+      width: 1004
+      height: 448
+    rotated: 0
+    paddingLeft: 0.001992032
+    paddingRight: 0.017928287
+    paddingTop: 0.004464286
+    paddingBottom: 0.13839285
+  mCoordinates: 0
+  mPixelSize: 0.5
+  mReplacement: {fileID: 0}

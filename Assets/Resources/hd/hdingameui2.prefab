@@ -1,0 +1,580 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1216316996295265}
+  m_IsPrefabAsset: 1
+--- !u!1 &1216316996295265
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4128995898549231}
+  - component: {fileID: 114401573663214536}
+  m_Layer: 0
+  m_Name: hdingameui2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4128995898549231
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1216316996295265}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114401573663214536
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1216316996295265}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03f7db9a480b403690a4a83220213122, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  material: {fileID: 2100000, guid: 3354718b3e926594193d029a216262a3, type: 2}
+  sprites:
+  - name: star_burst0006
+    outer:
+      serializedVersion: 2
+      x: 831
+      y: 787
+      width: 402
+      height: 395
+    inner:
+      serializedVersion: 2
+      x: 831
+      y: 787
+      width: 402
+      height: 395
+    rotated: 0
+    paddingLeft: 0.02238806
+    paddingRight: 0.014925373
+    paddingTop: 0.035443038
+    paddingBottom: 0.020253165
+  - name: star_burst0004
+    outer:
+      serializedVersion: 2
+      x: 1402
+      y: 107
+      width: 247
+      height: 246
+    inner:
+      serializedVersion: 2
+      x: 1402
+      y: 107
+      width: 247
+      height: 246
+    rotated: 0
+    paddingLeft: 0.35222673
+    paddingRight: 0.3360324
+    paddingTop: 0.33739838
+    paddingBottom: 0.35772356
+  - name: star_burst0011
+    outer:
+      serializedVersion: 2
+      x: 1695
+      y: 1713
+      width: 336
+      height: 335
+    inner:
+      serializedVersion: 2
+      x: 1695
+      y: 1713
+      width: 336
+      height: 335
+    rotated: 0
+    paddingLeft: 0.122023806
+    paddingRight: 0.11904762
+    paddingTop: 0.11641791
+    paddingBottom: 0.12835822
+  - name: Isabelle030001
+    outer:
+      serializedVersion: 2
+      x: 412
+      y: 1587
+      width: 428
+      height: 461
+    inner:
+      serializedVersion: 2
+      x: 412
+      y: 1587
+      width: 428
+      height: 461
+    rotated: 0
+    paddingLeft: 0.021028038
+    paddingRight: 0.030373832
+    paddingTop: 0.21041214
+    paddingBottom: 0.09110629
+  - name: star_burst0014
+    outer:
+      serializedVersion: 2
+      x: 1671
+      y: 394
+      width: 234
+      height: 225
+    inner:
+      serializedVersion: 2
+      x: 1671
+      y: 394
+      width: 234
+      height: 225
+    rotated: 0
+    paddingLeft: 0.3931624
+    paddingRight: 0.3888889
+    paddingTop: 0.40888888
+    paddingBottom: 0.44444445
+  - name: star_burst0007
+    outer:
+      serializedVersion: 2
+      x: 831
+      y: 390
+      width: 399
+      height: 396
+    inner:
+      serializedVersion: 2
+      x: 831
+      y: 390
+      width: 399
+      height: 396
+    rotated: 0
+    paddingLeft: 0.020050125
+    paddingRight: 0.025062656
+    paddingTop: 0.032828283
+    paddingBottom: 0.02020202
+  - name: Isabelle070001
+    outer:
+      serializedVersion: 2
+      x: 1234
+      y: 633
+      width: 167
+      height: 549
+    inner:
+      serializedVersion: 2
+      x: 1234
+      y: 633
+      width: 167
+      height: 549
+    rotated: 0
+    paddingLeft: 1.1616766
+    paddingRight: 0.5329341
+    paddingTop: 0.032786883
+    paddingBottom: 0.06010929
+  - name: star_burst0001
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 10
+      width: 66
+      height: 63
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 10
+      width: 66
+      height: 63
+    rotated: 0
+    paddingLeft: 2.6515152
+    paddingRight: 2.6666667
+    paddingTop: 2.7301588
+    paddingBottom: 2.8888888
+  - name: Isabelle030002
+    outer:
+      serializedVersion: 2
+      x: 841
+      y: 1589
+      width: 428
+      height: 459
+    inner:
+      serializedVersion: 2
+      x: 841
+      y: 1589
+      width: 428
+      height: 459
+    rotated: 0
+    paddingLeft: 0.011682243
+    paddingRight: 0.039719626
+    paddingTop: 0.21132898
+    paddingBottom: 0.09586056
+  - name: Isabelle030003
+    outer:
+      serializedVersion: 2
+      x: 1270
+      y: 1591
+      width: 424
+      height: 457
+    inner:
+      serializedVersion: 2
+      x: 1270
+      y: 1591
+      width: 424
+      height: 457
+    rotated: 0
+    paddingLeft: 0.004716981
+    paddingRight: 0.056603774
+    paddingTop: 0.21006565
+    paddingBottom: 0.10284464
+  - name: Isabelle050005
+    outer:
+      serializedVersion: 2
+      x: 412
+      y: 145
+      width: 327
+      height: 501
+    inner:
+      serializedVersion: 2
+      x: 412
+      y: 145
+      width: 327
+      height: 501
+    rotated: 0
+    paddingLeft: 0.29969418
+    paddingRight: 0.0764526
+    paddingTop: 0.1237525
+    paddingBottom: 0.07385229
+  - name: Isabelle070004
+    outer:
+      serializedVersion: 2
+      x: 1549
+      y: 620
+      width: 138
+      height: 562
+    inner:
+      serializedVersion: 2
+      x: 1549
+      y: 620
+      width: 138
+      height: 562
+    rotated: 0
+    paddingLeft: 1.615942
+    paddingRight: 0.64492756
+    paddingTop: 0.008896797
+    paddingBottom: 0.05871886
+  - name: Isabelle050004
+    outer:
+      serializedVersion: 2
+      x: 412
+      y: 647
+      width: 351
+      height: 476
+    inner:
+      serializedVersion: 2
+      x: 412
+      y: 647
+      width: 351
+      height: 476
+    rotated: 0
+    paddingLeft: 0.22507122
+    paddingRight: 0.05698006
+    paddingTop: 0.1764706
+    paddingBottom: 0.084033616
+  - name: star_burst0003
+    outer:
+      serializedVersion: 2
+      x: 1822
+      y: 1013
+      width: 167
+      height: 169
+    inner:
+      serializedVersion: 2
+      x: 1822
+      y: 1013
+      width: 167
+      height: 169
+    rotated: 0
+    paddingLeft: 0.76047903
+    paddingRight: 0.73652697
+    paddingTop: 0.71597636
+    paddingBottom: 0.75147927
+  - name: star_burst0010
+    outer:
+      serializedVersion: 2
+      x: 831
+      y: 1183
+      width: 402
+      height: 403
+    inner:
+      serializedVersion: 2
+      x: 831
+      y: 1183
+      width: 402
+      height: 403
+    rotated: 0
+    paddingLeft: 0.014925373
+    paddingRight: 0.02238806
+    paddingTop: 0.012406948
+    paddingBottom: 0.022332506
+  - name: star_burst0013
+    outer:
+      serializedVersion: 2
+      x: 1671
+      y: 172
+      width: 231
+      height: 221
+    inner:
+      serializedVersion: 2
+      x: 1671
+      y: 172
+      width: 231
+      height: 221
+    rotated: 0
+    paddingLeft: 0.4025974
+    paddingRight: 0.4025974
+    paddingTop: 0.42533937
+    paddingBottom: 0.46153846
+  - name: Isabelle050002
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 634
+      width: 390
+      height: 465
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 634
+      width: 390
+      height: 465
+    rotated: 0
+    paddingLeft: 0.13333334
+    paddingRight: 0.020512821
+    paddingTop: 0.19139785
+    paddingBottom: 0.09892473
+  - name: Isabelle070002
+    outer:
+      serializedVersion: 2
+      x: 1234
+      y: 77
+      width: 157
+      height: 555
+    inner:
+      serializedVersion: 2
+      x: 1234
+      y: 77
+      width: 157
+      height: 555
+    rotated: 0
+    paddingLeft: 1.3184713
+    paddingRight: 0.5477707
+    paddingTop: 0.021621622
+    paddingBottom: 0.05945946
+  - name: Isabelle070003
+    outer:
+      serializedVersion: 2
+      x: 1402
+      y: 620
+      width: 146
+      height: 562
+    inner:
+      serializedVersion: 2
+      x: 1402
+      y: 620
+      width: 146
+      height: 562
+    rotated: 0
+    paddingLeft: 1.5
+    paddingRight: 0.58219177
+    paddingTop: 0.008896797
+    paddingBottom: 0.05871886
+  - name: star_burst0009
+    outer:
+      serializedVersion: 2
+      x: 1234
+      y: 1184
+      width: 396
+      height: 402
+    inner:
+      serializedVersion: 2
+      x: 1234
+      y: 1184
+      width: 396
+      height: 402
+    rotated: 0
+    paddingLeft: 0.015151516
+    paddingRight: 0.03787879
+    paddingTop: 0.012437811
+    paddingBottom: 0.024875622
+  - name: star_burst0005
+    outer:
+      serializedVersion: 2
+      x: 831
+      y: 67
+      width: 326
+      height: 322
+    inner:
+      serializedVersion: 2
+      x: 831
+      y: 67
+      width: 326
+      height: 322
+    rotated: 0
+    paddingLeft: 0.14417177
+    paddingRight: 0.13496932
+    paddingTop: 0.14596273
+    paddingBottom: 0.14906833
+  - name: star_burst0008
+    outer:
+      serializedVersion: 2
+      x: 1631
+      y: 1185
+      width: 396
+      height: 401
+    inner:
+      serializedVersion: 2
+      x: 1631
+      y: 1185
+      width: 396
+      height: 401
+    rotated: 0
+    paddingLeft: 0.017676767
+    paddingRight: 0.035353534
+    paddingTop: 0.019950125
+    paddingBottom: 0.019950125
+  - name: Isabelle050001
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 1100
+      width: 400
+      height: 461
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 1100
+      width: 400
+      height: 461
+    rotated: 0
+    paddingLeft: 0.1175
+    paddingRight: 0.0075
+    paddingTop: 0.19522777
+    paddingBottom: 0.106290676
+  - name: star_burst0002
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 74
+      width: 91
+      height: 91
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 74
+      width: 91
+      height: 91
+    rotated: 0
+    paddingLeft: 1.8021978
+    paddingRight: 1.7802198
+    paddingTop: 1.7582418
+    paddingBottom: 1.8241758
+  - name: Isabelle050003
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 166
+      width: 373
+      height: 467
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 166
+      width: 373
+      height: 467
+    rotated: 0
+    paddingLeft: 0.16353887
+    paddingRight: 0.042895444
+    paddingTop: 0.19057816
+    paddingBottom: 0.09421842
+  - name: Isabelle030005
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 1562
+      width: 411
+      height: 486
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 1562
+      width: 411
+      height: 486
+    rotated: 0
+    paddingLeft: 0.01459854
+    paddingRight: 0.08029197
+    paddingTop: 0.13374485
+    paddingBottom: 0.100823045
+  - name: Isabelle030004
+    outer:
+      serializedVersion: 2
+      x: 412
+      y: 1124
+      width: 418
+      height: 462
+    inner:
+      serializedVersion: 2
+      x: 412
+      y: 1124
+      width: 418
+      height: 462
+    rotated: 0
+    paddingLeft: 0.009569378
+    paddingRight: 0.066985644
+    paddingTop: 0.19480519
+    paddingBottom: 0.103896104
+  - name: star_burst0012
+    outer:
+      serializedVersion: 2
+      x: 1402
+      y: 354
+      width: 268
+      height: 265
+    inner:
+      serializedVersion: 2
+      x: 1402
+      y: 354
+      width: 268
+      height: 265
+    rotated: 0
+    paddingLeft: 0.27985075
+    paddingRight: 0.2761194
+    paddingTop: 0.2792453
+    paddingBottom: 0.29433963
+  - name: Isabelle070005
+    outer:
+      serializedVersion: 2
+      x: 1688
+      y: 623
+      width: 133
+      height: 559
+    inner:
+      serializedVersion: 2
+      x: 1688
+      y: 623
+      width: 133
+      height: 559
+    rotated: 0
+    paddingLeft: 1.706767
+    paddingRight: 0.6766917
+    paddingTop: 0.01431127
+    paddingBottom: 0.05903399
+  mCoordinates: 0
+  mPixelSize: 0.5
+  mReplacement: {fileID: 0}
