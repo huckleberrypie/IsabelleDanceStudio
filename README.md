@@ -13,10 +13,12 @@ Special thanks to hatoving and ParkingLotGames for their help in making this pos
 * Upgraded to Unity 2018.2.19f1 from Unity 4.3.2
 * Support for platforms such as the PlayStation Vita
 
-## TODO
+## Issues
 * About/Privacy and How to Play text is broken (Depth sorting bug?)
+* PC builds end up with missing sprites and broken logic
+
+## TODO
 * Add a simple localisation script (JSON or something along those lines, idk) to aid in fan translations?
-* PC builds end up with missing sprites (Shader-related issue?)
 * Port the game to modern Android and iOS versions
 
 ## Screenshots
@@ -26,15 +28,17 @@ Special thanks to hatoving and ParkingLotGames for their help in making this pos
 <img src="https://i.imgur.com/57nJhp6.png">
 
 ## Legal stuff
-Original game by American Girl and Splashworks, Inc.
-PlayStation Vita conversion by huckleberrypie and ParkingLotGames.
+Original game by American Girl and Splashworks, Inc.<br />
+PlayStation Vita and ARM64 Android conversions by huckleberrypie and ParkingLotGames.
 
 Built using Unity 2018.2.19f1 with NGUI 2.7.0:
 https://github.com/thomaschampagne/NGUI270Revive
 
-"PLAYSTATION VITA" is a product of Sony Interactive Entertainment Inc.
-"PLAYSTATION" is a registered trademark of Sony Interactive Entertainment Inc.
-"PS VITA" is a trademark of Sony Interactive Entertainment Inc.
-(c) Sony Interactive Entertainment Inc. All rights reserved.
+The developers of this port are not in any way affiliated with American Girl, Mattel, or Splashworks. We do not claim to own any copyrighted material that may appear in this game, nor do we profit off of said material. Furthermore, the developers claim fair use per a DMCA exemption allowing for the reverse-engineering of long-discontinued games for the purposes of research and conservation.
 
-I DO NOT claim ownership of copyrighted files or intellectual property derived from this game; I claim fair use per a DMCA exemption allowing for the reverse-engineering of long-discontinued games for the purposes of research and conservation.
+AMERICAN GIRL®, AG logos, ISABELLE®, ISABELLE PALMER™ are registered trademarks of American Girl, LLC.<br />
+
+PLAYSTATION VITA is a product of Sony Interactive Entertainment Inc.<br />
+PLAYSTATION® is a registered trademark of Sony Interactive Entertainment Inc.<br />
+PS VITA™ is a trademark of Sony Interactive Entertainment Inc.<br />
+© Sony Interactive Entertainment Inc. All rights reserved.

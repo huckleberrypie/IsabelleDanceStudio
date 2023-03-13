@@ -1412,7 +1412,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!1 &87
 GameObject:
   m_ObjectHideFlags: 0
@@ -5275,7 +5275,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!1 &323
 GameObject:
   m_ObjectHideFlags: 0
@@ -5643,8 +5643,8 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 22}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -1}
-  m_LocalScale: {x: 498, y: 112, z: 1}
+  m_LocalPosition: {x: 0, y: 20, z: -1}
+  m_LocalScale: {x: 498, y: 135, z: 1}
   m_Children: []
   m_Father: {fileID: 493}
   m_RootOrder: 1
@@ -5828,7 +5828,7 @@ Transform:
   m_GameObject: {fileID: 36}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 30}
-  m_LocalScale: {x: 710.7769, y: 444.23557, z: 1}
+  m_LocalScale: {x: 711.47546, y: 444.67215, z: 1}
   m_Children: []
   m_Father: {fileID: 567}
   m_RootOrder: 0
@@ -6263,7 +6263,7 @@ Transform:
   m_GameObject: {fileID: 68}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 30}
-  m_LocalScale: {x: 710.7769, y: 444.23557, z: 1}
+  m_LocalScale: {x: 711.47546, y: 444.67215, z: 1}
   m_Children: []
   m_Father: {fileID: 567}
   m_RootOrder: 4
@@ -6399,7 +6399,7 @@ Transform:
   m_GameObject: {fileID: 78}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 30}
-  m_LocalScale: {x: 710.7769, y: 444.23557, z: 1}
+  m_LocalScale: {x: 711.47546, y: 444.67215, z: 1}
   m_Children: []
   m_Father: {fileID: 567}
   m_RootOrder: 2
@@ -6624,7 +6624,7 @@ Transform:
   m_GameObject: {fileID: 94}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 30}
-  m_LocalScale: {x: 710.7769, y: 444.23557, z: 1}
+  m_LocalScale: {x: 711.47546, y: 444.67215, z: 1}
   m_Children: []
   m_Father: {fileID: 567}
   m_RootOrder: 3
@@ -7177,7 +7177,7 @@ Transform:
   m_GameObject: {fileID: 131}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: -1}
-  m_LocalScale: {x: 710.7769, y: 444.23557, z: 4.0298824}
+  m_LocalScale: {x: 711.47546, y: 444.67215, z: 4.0298824}
   m_Children: []
   m_Father: {fileID: 493}
   m_RootOrder: 2
@@ -7414,7 +7414,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 148}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 355.3885, y: -200, z: 0}
+  m_LocalPosition: {x: 355.19125, y: -199.45355, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 510}
@@ -7483,7 +7483,7 @@ Transform:
   m_GameObject: {fileID: 152}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 30}
-  m_LocalScale: {x: 710.7769, y: 444.23557, z: 1}
+  m_LocalScale: {x: 711.47546, y: 444.67215, z: 1}
   m_Children: []
   m_Father: {fileID: 567}
   m_RootOrder: 1
@@ -7673,7 +7673,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 166}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.5012487, y: 0.5012512, z: 0}
+  m_LocalPosition: {x: 0, y: 0.5464554, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 376}
@@ -7927,7 +7927,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 184}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -355.3885, y: 200, z: 0}
+  m_LocalPosition: {x: -356.28418, y: 200.54645, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 386}
@@ -8286,7 +8286,7 @@ Transform:
   m_GameObject: {fileID: 210}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: -1}
-  m_LocalScale: {x: 710.7769, y: 444.23557, z: 1}
+  m_LocalScale: {x: 711.47546, y: 444.67215, z: 1}
   m_Children: []
   m_Father: {fileID: 493}
   m_RootOrder: 3
@@ -8325,7 +8325,7 @@ Transform:
   m_GameObject: {fileID: 213}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 30}
-  m_LocalScale: {x: 710.7769, y: 444.23557, z: 1}
+  m_LocalScale: {x: 711.47546, y: 444.67215, z: 1}
   m_Children: []
   m_Father: {fileID: 567}
   m_RootOrder: 5
@@ -8687,7 +8687,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 240}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.5012487, y: 0.5012512, z: 0}
+  m_LocalPosition: {x: 0, y: 0.5464554, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 363}
@@ -11162,45 +11162,19 @@ MonoBehaviour:
   mPivot: 0
   mDepth: 3
   mFont: {fileID: 114879826150557391, guid: c407060bd1b57cc4482325452d74962f, type: 2}
-  mText: "This summary is provided for convenience; read the [0000FF]Mattel Privacy
-    Statement[-] for full details and how to contact us with questions.\n\nCHILDREN.
-    We protect the privacy of kids under 13 and don\u2019t collect more information
-    than we need.\n           \u2022 We collect personal contact info only with parental
-    consent, except as authorized by law, and collect certain info automatically.\n
-    \          \u2022 Parents can ask us to update or delete their children\u2019s
-    information.\n           \u2022 Apps may contain advertising, but interest-based
-    advertising isn\u2019t allowed on sites or apps directed primarily to kids.\n\nCONTACT
-    DETAILS.\n           \u2022 You may need to submit personal contact info (name,
-    address, phone, e-mail, etc.) to register, participate in a promotion, get updates,
-    or make a purchase.\n           \u2022 We respect your choices about receiving
-    promotional messages from us.\n           \u2022 We don\u2019t access your contact
-    list, photos or video files.\n\nLOCATION INFO. We collect general location info
-    (e.g., zip code), but not specific address absent consent.\n\nCOOKIES AND TECHNOLOGY.
-    We, agents, 3rd party service providers, app providers, analytics companies and
-    ad networks collect some info automatically using technology.\n           \u2022
-    We collect device and network info, like unique identifiers (UDID, mobile or IP
-    address), type of device, browser settings, operating system, referring domain,
-    language preferences, mode of connecting to the Internet, and other information.\n
-    \          \u2022 Cookies and web beacons may be used with web-delivered content
-    and at app-accessible websites.\n           \u2022 Third parties collect device
-    identifiers, like mobile UDID or IP address, and info on your activities to analyze
-    usage, or to deliver targeted ads to those 13+.\n           \u2022 Tools are available
-    to help you control some technologies.\n\nUSE. Info collected is used to provide
-    and improve products and services, fulfill requests, understand consumers, optimize
-    functionality, and manage content and advertising.\n\nSHARING. We may share information:\n
-    \          \u2022 Within our family of companies, and with agents and service
-    providers.\n           \u2022 With third parties for marketing purposes as outlined
-    in our full Privacy Statement; CA residents may request info on sharing.\n           \u2022
-    As necessary to satisfy a legal request, protect property or personal safety,
-    when a business is bought or sold, or as otherwise allowed or required by law.\n\nLINKS.
-    Apps may link to or use content from the Internet, including content offered by
-    third parties that we do not control and whose privacy and data collection practices
-    may differ from ours, including social media or networking sites.\n\nAPP CONTROLS.
-    Your device may allow you to block or manage push notifications, location information,
-    in-app purchases, geo-tagging of photos or videos, or ability to access the web.\n\nOTHER
-    IMPORTANT INFO. See our full [0000FF]Privacy Statement[-] for more important info,
-    such as security, transfers of data to other countries, and how we will notify
-    you of updates.\n"
+  mText: "Original game by American Girl and Splashworks, Inc.\n PlayStation Vita
+    and ARM64 Android conversions by huckleberrypie and ParkingLotGames.\n Built using
+    Unity 2018.2.19f1 with NGUI 2.7.0.\n\n The developers of this port are not in
+    any way affiliated with American Girl, Mattel, or Splashworks. We do not claim
+    to own any copyrighted material that may appear in this game or, nor do we profit
+    off of said material. Furthermore, the developers claim fair use per a DMCA exemption
+    allowing for the reverse-engineering of long-discontinued games for the purposes
+    of research and conservation.\n\n AMERICAN GIRL\xAE, AG logos, ISABELLE\xAE, ISABELLE
+    PALMER\u2122 are registered trademarks of American Girl, LLC.\n\n \"PLAYSTATION
+    VITA\" is a product of Sony Interactive Entertainment Inc.\n \"PLAYSTATION\" is
+    a registered trademark of Sony Interactive Entertainment Inc.\n \"PS VITA\" is
+    a trademark of Sony Interactive Entertainment Inc. \xA9 Sony Interactive Entertainment
+    Inc. All rights reserved.\n"
   mMaxLineWidth: 335
   mMaxLineHeight: 0
   mEncoding: 1
