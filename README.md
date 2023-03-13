@@ -15,7 +15,6 @@ Special thanks to hatoving and ParkingLotGames for their help in making this pos
 
 ## TODO
 * About/Privacy and How to Play text is broken (Depth sorting bug?)
-* Alpha textures exhibit a greyish cast for some reason (The original mobile phone assets do not exhibit this but for some reason extracting them ends up with a grey fringe)
 * Add a simple localisation script (JSON or something along those lines, idk) to aid in fan translations?
 * PC builds end up with missing sprites (Shader-related issue?)
 * Port the game to modern Android and iOS versions
