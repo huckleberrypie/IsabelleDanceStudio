@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: HDInGameUI2
-  m_Shader: {fileID: 4800000, guid: 3b1003bef0903e941babc2dd3f992978, type: 3}
+  m_Shader: {fileID: 4800000, guid: a4f1aec971d140c4ca4304455244ab32, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -18,6 +18,10 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
+    - _AlphaTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _DetailTex:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -27,8 +31,11 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
+    - PixelSnap: 0
     - _ColorMask: 15
     - _Cutoff: 0.5
+    - _EnableExternalAlpha: 0
+    - _InvFade: 1
     - _Stencil: 0
     - _StencilComp: 8
     - _StencilOp: 0

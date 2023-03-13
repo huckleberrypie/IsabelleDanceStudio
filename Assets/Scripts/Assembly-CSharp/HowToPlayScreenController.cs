@@ -65,15 +65,15 @@ public class HowToPlayScreenController : MonoBehaviour
 		SharedTextureManager.ShowSequinsTopRight(false);
 		clippingPanel.clipRange = new Vector4(clippingPanel.clipRange.x, clippingPanel.clipRange.y, Screen.width, clippingPanel.clipRange.w);
 
-		pg1Ln1.text = "HTP.Pg1.Ln1";
-		pg1Ln2.text = "HTP.Pg1.Ln2";
-		pg1Ln3.text = "HTP.Pg1.Ln3";
-		pg2Ln1.text = "HTP.Pg2.Ln1";
-		pg3Ln1.text = "HTP.Pg3.Ln1";
-		pg3Ln2.text = "HTP.Pg3.Ln2";
-		pg3Ln3.text = "HTP.Pg3.Ln3";
-		pg3Ln4.text = "HTP.Pg3.Ln4";
-		pg4Ln1.text = "HTP.Pg4.Ln1";
+		pg1Ln1.text = "Tap stars so that Isabelle will reach and leap to keep them in the air.";
+		pg1Ln2.text = "The more you tap stars, the more points you’ll earn.";
+		pg1Ln3.text = "Don’t let a star hit the floor and don't hit a black pearl.";
+		pg2Ln1.text = "Collect gems to unlock STARBURST!\n When STARBURST is flashing,\n tap it to send all stars\n off the screen.";
+		pg3Ln1.text = "Tap megastars for bonuses.";
+		pg3Ln2.text = "Tap this star to multiply your points—two, three, or five times!";
+		pg3Ln3.text = "Tap this star to unlock a rainbow that makes stars bounce instead of hitting the floor.";
+		pg3Ln4.text = "Tap this star to double the number of gems you collect in a game.";
+		pg4Ln1.text = "Don’t hit the black pearl!";
 	}
 
 	public void OnDisable()
