@@ -509,7 +509,7 @@ PlayerSettings:
   psp2ManualPath: 
   psp2LiveAreaGatePath: Assets/Resources/idsgate.png
   psp2LiveAreaBackroundPath: Assets/Resources/idsbg.png
-  psp2LiveAreaPath: 
+  psp2LiveAreaPath: livearea
   psp2LiveAreaTrialPath: 
   psp2PatchChangeInfoPath: 
   psp2PatchOriginalPackage: 

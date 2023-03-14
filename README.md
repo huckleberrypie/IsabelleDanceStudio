@@ -14,18 +14,19 @@ Special thanks to hatoving and ParkingLotGames for their help in making this pos
 * Support for platforms such as the PlayStation Vita
 
 ## Issues
-* About/Privacy and How to Play text is broken (Depth sorting bug?)
-* PC builds end up with missing sprites and broken logic
+* Compiling for PC works, but the resulting game comes with missing sprites and broken logic
 
 ## TODO
 * Add a simple localisation script (JSON or something along those lines, idk) to aid in fan translations?
 * Port the game to modern Android and iOS versions
 
 ## Screenshots
-<img src="https://i.imgur.com/nahnMQA.png">
-<img src="https://i.imgur.com/NtFleLn.png">
-<img src="https://i.imgur.com/pTC1Lsi.png">
-<img src="https://i.imgur.com/57nJhp6.png">
+<img src="https://i.postimg.cc/Y0wddjdS/2023-03-14-154158.png">
+<img src="https://i.postimg.cc/C5HmXY2s/2023-03-14-154208.png">
+<img src="https://i.postimg.cc/Wb857Ng2/2023-03-14-154228.png">
+<img src="https://i.postimg.cc/fRbB2GfY/2023-03-14-154240.png">
+<img src="https://i.postimg.cc/PxD6b1zc/2023-03-13-145202.png">
+<img src="https://i.postimg.cc/3JYLp4yS/2023-03-14-154333.png">
 
 ## Legal stuff
 Original game by American Girl and Splashworks, Inc.<br />

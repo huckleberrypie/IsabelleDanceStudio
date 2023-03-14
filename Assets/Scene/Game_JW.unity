@@ -5393,7 +5393,7 @@ Transform:
   m_GameObject: {fileID: 3}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0.33333334, y: -0.33333334, z: 0}
-  m_LocalScale: {x: 640, y: 400, z: 1}
+  m_LocalScale: {x: 711.47546, y: 444.67215, z: 1}
   m_Children: []
   m_Father: {fileID: 456}
   m_RootOrder: 21
@@ -5721,7 +5721,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 28}
   m_LocalRotation: {x: 0, y: 0, z: -1, w: -0.00000004371139}
-  m_LocalPosition: {x: 0.5, y: 0, z: -1}
+  m_LocalPosition: {x: 0.5, y: 0, z: 0.5}
   m_LocalScale: {x: 417, y: 259, z: 1}
   m_Children: []
   m_Father: {fileID: 620}
@@ -5828,7 +5828,7 @@ Transform:
   m_GameObject: {fileID: 36}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 30}
-  m_LocalScale: {x: 711.47546, y: 444.67215, z: 1}
+  m_LocalScale: {x: 711.1111, y: 444.44443, z: 1}
   m_Children: []
   m_Father: {fileID: 567}
   m_RootOrder: 0
@@ -5957,7 +5957,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 46}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -320, y: -200, z: 0}
+  m_LocalPosition: {x: -356.28418, y: -199.45355, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 500}
@@ -6096,7 +6096,7 @@ Transform:
   m_GameObject: {fileID: 56}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0.33333334, y: -0.33333334, z: 0}
-  m_LocalScale: {x: 640, y: 400, z: 1}
+  m_LocalScale: {x: 711.47546, y: 444.67215, z: 1}
   m_Children: []
   m_Father: {fileID: 419}
   m_RootOrder: 3
@@ -6263,7 +6263,7 @@ Transform:
   m_GameObject: {fileID: 68}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 30}
-  m_LocalScale: {x: 711.47546, y: 444.67215, z: 1}
+  m_LocalScale: {x: 711.1111, y: 444.44443, z: 1}
   m_Children: []
   m_Father: {fileID: 567}
   m_RootOrder: 4
@@ -6399,7 +6399,7 @@ Transform:
   m_GameObject: {fileID: 78}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 30}
-  m_LocalScale: {x: 711.47546, y: 444.67215, z: 1}
+  m_LocalScale: {x: 711.1111, y: 444.44443, z: 1}
   m_Children: []
   m_Father: {fileID: 567}
   m_RootOrder: 2
@@ -6624,7 +6624,7 @@ Transform:
   m_GameObject: {fileID: 94}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 30}
-  m_LocalScale: {x: 711.47546, y: 444.67215, z: 1}
+  m_LocalScale: {x: 711.1111, y: 444.44443, z: 1}
   m_Children: []
   m_Father: {fileID: 567}
   m_RootOrder: 3
@@ -7177,7 +7177,7 @@ Transform:
   m_GameObject: {fileID: 131}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: -1}
-  m_LocalScale: {x: 711.47546, y: 444.67215, z: 4.0298824}
+  m_LocalScale: {x: 711.1111, y: 444.44443, z: 4.0298824}
   m_Children: []
   m_Father: {fileID: 493}
   m_RootOrder: 2
@@ -7414,7 +7414,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 148}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 355.19125, y: -199.45355, z: 0}
+  m_LocalPosition: {x: 355.16907, y: -199.6139, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 510}
@@ -7483,7 +7483,7 @@ Transform:
   m_GameObject: {fileID: 152}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 30}
-  m_LocalScale: {x: 711.47546, y: 444.67215, z: 1}
+  m_LocalScale: {x: 711.1111, y: 444.44443, z: 1}
   m_Children: []
   m_Father: {fileID: 567}
   m_RootOrder: 1
@@ -7673,7 +7673,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 166}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0.5464554, z: 0}
+  m_LocalPosition: {x: -0.38647124, y: 0.38609505, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 376}
@@ -7927,7 +7927,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 184}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -356.28418, y: 200.54645, z: 0}
+  m_LocalPosition: {x: -355.94205, y: 200.3861, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 386}
@@ -8012,7 +8012,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 190}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0.5464554, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 481}
@@ -8232,7 +8232,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 206}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -320, y: -200, z: 0}
+  m_LocalPosition: {x: -356.28418, y: -199.45355, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 527}
@@ -8286,7 +8286,7 @@ Transform:
   m_GameObject: {fileID: 210}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: -1}
-  m_LocalScale: {x: 711.47546, y: 444.67215, z: 1}
+  m_LocalScale: {x: 711.1111, y: 444.44443, z: 1}
   m_Children: []
   m_Father: {fileID: 493}
   m_RootOrder: 3
@@ -8325,7 +8325,7 @@ Transform:
   m_GameObject: {fileID: 213}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 30}
-  m_LocalScale: {x: 711.47546, y: 444.67215, z: 1}
+  m_LocalScale: {x: 711.1111, y: 444.44443, z: 1}
   m_Children: []
   m_Father: {fileID: 567}
   m_RootOrder: 5
@@ -8687,7 +8687,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 240}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0.5464554, z: 0}
+  m_LocalPosition: {x: -0.38647124, y: 0.38609505, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 363}
@@ -9394,7 +9394,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 288}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0.5, z: 0}
+  m_LocalPosition: {x: 0, y: 0.5, z: 0.5}
   m_LocalScale: {x: 360, y: 259, z: 1}
   m_Children: []
   m_Father: {fileID: 425}
@@ -9461,7 +9461,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 293}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0.5464554, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 419}
@@ -9645,7 +9645,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 306}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: -200, z: 2.9785156}
+  m_LocalPosition: {x: 0, y: -199.45355, z: 2.9785156}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 525}
@@ -10018,7 +10018,7 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 50, y: 100, z: 1}
+  m_Size: {x: 50, y: 30, z: 1}
   m_Center: {x: 21, y: -50, z: 0}
 --- !u!65 &660
 BoxCollider:
@@ -11162,19 +11162,19 @@ MonoBehaviour:
   mPivot: 0
   mDepth: 3
   mFont: {fileID: 114879826150557391, guid: c407060bd1b57cc4482325452d74962f, type: 2}
-  mText: "Original game by American Girl and Splashworks, Inc.\n PlayStation Vita
-    and ARM64 Android conversions by huckleberrypie and ParkingLotGames.\n Built using
-    Unity 2018.2.19f1 with NGUI 2.7.0.\n\n The developers of this port are not in
-    any way affiliated with American Girl, Mattel, or Splashworks. We do not claim
-    to own any copyrighted material that may appear in this game or, nor do we profit
+  mText: "Original game by American Girl and Splashworks, Inc.\nPlayStation Vita and
+    ARM64 Android conversions by huckleberrypie and ParkingLotGames.\nBuilt using
+    Unity 2018.2.19f1 with NGUI 2.7.0.\n\nThe developers of this port are not in any
+    way affiliated with American Girl, Mattel, or Splashworks. We do not claim to
+    own any copyrighted material that may appear in this game or, nor do we profit
     off of said material. Furthermore, the developers claim fair use per a DMCA exemption
     allowing for the reverse-engineering of long-discontinued games for the purposes
-    of research and conservation.\n\n AMERICAN GIRL\xAE, AG logos, ISABELLE\xAE, ISABELLE
-    PALMER\u2122 are registered trademarks of American Girl, LLC.\n\n \"PLAYSTATION
-    VITA\" is a product of Sony Interactive Entertainment Inc.\n \"PLAYSTATION\" is
-    a registered trademark of Sony Interactive Entertainment Inc.\n \"PS VITA\" is
+    of research and conservation.\n\nAMERICAN GIRL\xAE, AG logos, ISABELLE\xAE, ISABELLE
+    PALMER\u2122 are registered trademarks of American Girl, LLC.\n\n\"PLAYSTATION
+    VITA\" is a product of Sony Interactive Entertainment Inc.\n\"PLAYSTATION\" is
+    a registered trademark of Sony Interactive Entertainment Inc.\n\"PS VITA\" is
     a trademark of Sony Interactive Entertainment Inc. \xA9 Sony Interactive Entertainment
-    Inc. All rights reserved.\n"
+    Inc. All rights reserved.\n\nAndroid is a registered trademark of Google Inc.\n"
   mMaxLineWidth: 335
   mMaxLineHeight: 0
   mEncoding: 1
@@ -18993,7 +18993,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0e7c3bff608434c7f74859fbc7af5fe1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sortByDepth: 1
+  sortByDepth: 0
   showInPanelTool: 1
   generateNormals: 0
   depthPass: 0
@@ -19266,7 +19266,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0e7c3bff608434c7f74859fbc7af5fe1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sortByDepth: 1
+  sortByDepth: 0
   showInPanelTool: 1
   generateNormals: 0
   depthPass: 0
@@ -19309,7 +19309,7 @@ MonoBehaviour:
   showInPanelTool: 1
   generateNormals: 0
   depthPass: 0
-  widgetsAreStatic: 1
+  widgetsAreStatic: 0
   cullWhileDragging: 0
   worldToLocal:
     e00: 200
