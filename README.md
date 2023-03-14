@@ -6,6 +6,9 @@ App bundles for the original iOS and Android releases can be downloaded at the l
 https://archive.org/download/fuhu-nabi-bundles<br />
 https://archive.org/details/amgirl-ios-apps
 
+You can also download the game here:
+https://archive.org/details/isabelle-dance-studio-psp2
+
 Special thanks to hatoving and ParkingLotGames for their help in making this possible.
 
 ## Features
