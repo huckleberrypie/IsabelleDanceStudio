@@ -21,12 +21,12 @@ Special thanks to hatoving and ParkingLotGames for their help in making this pos
 * Port the game to modern Android and iOS versions
 
 ## Screenshots
-<img src="https://i.postimg.cc/Y0wddjdS/2023-03-14-154158.png">
-<img src="https://i.postimg.cc/C5HmXY2s/2023-03-14-154208.png">
-<img src="https://i.postimg.cc/Wb857Ng2/2023-03-14-154228.png">
-<img src="https://i.postimg.cc/fRbB2GfY/2023-03-14-154240.png">
-<img src="https://i.postimg.cc/PxD6b1zc/2023-03-13-145202.png">
-<img src="https://i.postimg.cc/3JYLp4yS/2023-03-14-154333.png">
+<img src="https://i.imgur.com/Wnlrv12.png">
+<img src="https://i.imgur.com/qG6PaCz.png">
+<img src="https://i.imgur.com/69BAWwk.png">
+<img src="https://i.imgur.com/wpjEzVL.png">
+<img src="https://i.imgur.com/bo5t6fa.png">
+<img src="https://i.imgur.com/X4TtzMB.png">
 
 ## Legal stuff
 Original game by American Girl and Splashworks, Inc.<br />
