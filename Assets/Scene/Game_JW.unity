@@ -5366,7 +5366,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0.5, z: 0}
+  m_LocalPosition: {x: 0, y: 0.5, z: 0.5}
   m_LocalScale: {x: 360, y: 259, z: 1}
   m_Children: []
   m_Father: {fileID: 504}
@@ -5431,7 +5431,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 6}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0.5, z: 0}
+  m_LocalPosition: {x: 0, y: 0.5, z: 0.5}
   m_LocalScale: {x: 360, y: 259, z: 1}
   m_Children: []
   m_Father: {fileID: 470}
@@ -5471,7 +5471,7 @@ Transform:
   m_GameObject: {fileID: 9}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -169, y: -35, z: 0}
-  m_LocalScale: {x: 8, y: 8, z: 1}
+  m_LocalScale: {x: 9, y: 9, z: 1}
   m_Children: []
   m_Father: {fileID: 636}
   m_RootOrder: 0
@@ -7800,7 +7800,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 175}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0.5, z: 0}
+  m_LocalPosition: {x: 0, y: 0.5, z: 0.5}
   m_LocalScale: {x: 360, y: 259, z: 1}
   m_Children: []
   m_Father: {fileID: 404}
@@ -10018,7 +10018,7 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 50, y: 30, z: 1}
+  m_Size: {x: 55, y: 35, z: 1}
   m_Center: {x: 21, y: -50, z: 0}
 --- !u!65 &660
 BoxCollider:
@@ -11166,8 +11166,8 @@ MonoBehaviour:
     ARM64 Android conversions by huckleberrypie and ParkingLotGames.\nBuilt using
     Unity 2018.2.19f1 with NGUI 2.7.0.\n\nThe developers of this port are not in any
     way affiliated with American Girl, Mattel, or Splashworks. We do not claim to
-    own any copyrighted material that may appear in this game or, nor do we profit
-    off of said material. Furthermore, the developers claim fair use per a DMCA exemption
+    own any copyrighted material that may appear in this game, nor do we profit off
+    of said material. Furthermore, the developers claim fair use per a DMCA exemption
     allowing for the reverse-engineering of long-discontinued games for the purposes
     of research and conservation.\n\nAMERICAN GIRL\xAE, AG logos, ISABELLE\xAE, ISABELLE
     PALMER\u2122 are registered trademarks of American Girl, LLC.\n\n\"PLAYSTATION

@@ -499,7 +499,7 @@ PlayerSettings:
   psp2Splashimage: {fileID: 2800000, guid: 4247b65b99284254881ffb33af68d7bd, type: 3}
   psp2NPTrophyPackPath: 
   psp2NPSupportGBMorGJP: 0
-  psp2NPAgeRating: 12
+  psp2NPAgeRating: 3
   psp2NPTitleDatPath: 
   psp2NPCommsID: 
   psp2NPCommunicationsID: 
@@ -531,8 +531,8 @@ PlayerSettings:
   psp2ShortTitle: Dance Studio
   psp2ContentID: IV0000-PCSE69420_00-0922200586ISABEL
   psp2Category: 0
-  psp2MasterVersion: 01.00
-  psp2AppVersion: 01.00
+  psp2MasterVersion: 01.01
+  psp2AppVersion: 01.01
   psp2TVBootMode: 1
   psp2EnterButtonAssignment: 2
   psp2TVDisableEmu: 0
