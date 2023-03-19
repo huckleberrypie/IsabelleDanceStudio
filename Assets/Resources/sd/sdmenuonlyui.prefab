@@ -51,8 +51,423 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 03f7db9a480b403690a4a83220213122, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  material: {fileID: 0}
-  sprites: []
+  material: {fileID: 2100000, guid: b069930314f98c344b7dccd10d90a44b, type: 2}
+  sprites:
+  - name: sequins_bottom_left
+    outer:
+      serializedVersion: 2
+      x: 1686
+      y: 1101
+      width: 285
+      height: 141
+    inner:
+      serializedVersion: 2
+      x: 1686
+      y: 1101
+      width: 285
+      height: 141
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: ok_button_default
+    outer:
+      serializedVersion: 2
+      x: 1966
+      y: 1857
+      width: 52
+      height: 47
+    inner:
+      serializedVersion: 2
+      x: 1966
+      y: 1857
+      width: 52
+      height: 47
+    rotated: 0
+    paddingLeft: 0.03846154
+    paddingRight: 0.05769231
+    paddingTop: 0.06382979
+    paddingBottom: 0.06382979
+  - name: htp_window
+    outer:
+      serializedVersion: 2
+      x: 1686
+      y: 1388
+      width: 360
+      height: 259
+    inner:
+      serializedVersion: 2
+      x: 1686
+      y: 1388
+      width: 360
+      height: 259
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: new_best
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 160
+      width: 84
+      height: 61
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 160
+      width: 84
+      height: 61
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: sequins_top_right
+    outer:
+      serializedVersion: 2
+      x: 1686
+      y: 1243
+      width: 293
+      height: 144
+    inner:
+      serializedVersion: 2
+      x: 1686
+      y: 1243
+      width: 293
+      height: 144
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: help_button_touched
+    outer:
+      serializedVersion: 2
+      x: 1966
+      y: 1761
+      width: 52
+      height: 47
+    inner:
+      serializedVersion: 2
+      x: 1966
+      y: 1761
+      width: 52
+      height: 47
+    rotated: 0
+    paddingLeft: 0.03846154
+    paddingRight: 0.05769231
+    paddingTop: 0.06382979
+    paddingBottom: 0.06382979
+  - name: privacy_window_BG
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 404
+      width: 417
+      height: 259
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 404
+      width: 417
+      height: 259
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: new_best_star
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 960
+      width: 1088
+      height: 1088
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 960
+      width: 1088
+      height: 1088
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: dot_empty
+    outer:
+      serializedVersion: 2
+      x: 1141
+      y: 962
+      width: 12
+      height: 12
+    inner:
+      serializedVersion: 2
+      x: 1141
+      y: 962
+      width: 12
+      height: 12
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: isabelle_sequin_htp
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 222
+      width: 165
+      height: 181
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 222
+      width: 165
+      height: 181
+    rotated: 0
+    paddingLeft: 0.006060606
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: white_swoosh_game_complete
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 664
+      width: 640
+      height: 295
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 664
+      width: 640
+      height: 295
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: clock_icon
+    outer:
+      serializedVersion: 2
+      x: 1228
+      y: 969
+      width: 30
+      height: 30
+    inner:
+      serializedVersion: 2
+      x: 1228
+      y: 969
+      width: 30
+      height: 30
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: arrow_button_default
+    outer:
+      serializedVersion: 2
+      x: 1966
+      y: 1953
+      width: 52
+      height: 47
+    inner:
+      serializedVersion: 2
+      x: 1966
+      y: 1953
+      width: 52
+      height: 47
+    rotated: 0
+    paddingLeft: 0.03846154
+    paddingRight: 0.05769231
+    paddingTop: 0.06382979
+    paddingBottom: 0.06382979
+  - name: isabelle_main-
+    outer:
+      serializedVersion: 2
+      x: 1686
+      y: 1648
+      width: 279
+      height: 400
+    inner:
+      serializedVersion: 2
+      x: 1686
+      y: 1648
+      width: 279
+      height: 400
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: help_button_default
+    outer:
+      serializedVersion: 2
+      x: 1966
+      y: 1905
+      width: 52
+      height: 47
+    inner:
+      serializedVersion: 2
+      x: 1966
+      y: 1905
+      width: 52
+      height: 47
+    rotated: 0
+    paddingLeft: 0.03846154
+    paddingRight: 0.05769231
+    paddingTop: 0.06382979
+    paddingBottom: 0.06382979
+  - name: privacy_txt_main
+    outer:
+      serializedVersion: 2
+      x: 1089
+      y: 963
+      width: 38
+      height: 11
+    inner:
+      serializedVersion: 2
+      x: 1089
+      y: 963
+      width: 38
+      height: 11
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: ok_button_touched
+    outer:
+      serializedVersion: 2
+      x: 1966
+      y: 2001
+      width: 52
+      height: 47
+    inner:
+      serializedVersion: 2
+      x: 1966
+      y: 2001
+      width: 52
+      height: 47
+    rotated: 0
+    paddingLeft: 0.03846154
+    paddingRight: 0.05769231
+    paddingTop: 0.06382979
+    paddingBottom: 0.06382979
+  - name: dot
+    outer:
+      serializedVersion: 2
+      x: 1128
+      y: 962
+      width: 12
+      height: 12
+    inner:
+      serializedVersion: 2
+      x: 1128
+      y: 962
+      width: 12
+      height: 12
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: arrow_button_touched
+    outer:
+      serializedVersion: 2
+      x: 1966
+      y: 1809
+      width: 52
+      height: 47
+    inner:
+      serializedVersion: 2
+      x: 1966
+      y: 1809
+      width: 52
+      height: 47
+    rotated: 0
+    paddingLeft: 0.03846154
+    paddingRight: 0.05769231
+    paddingTop: 0.06382979
+    paddingBottom: 0.06382979
+  - name: superpose_bar_htp
+    outer:
+      serializedVersion: 2
+      x: 1089
+      y: 975
+      width: 138
+      height: 24
+    inner:
+      serializedVersion: 2
+      x: 1089
+      y: 975
+      width: 138
+      height: 24
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: isabelle_superpose_htp
+    outer:
+      serializedVersion: 2
+      x: 418
+      y: 462
+      width: 192
+      height: 201
+    inner:
+      serializedVersion: 2
+      x: 418
+      y: 462
+      width: 192
+      height: 201
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Isabelle_Game_Complete
+    outer:
+      serializedVersion: 2
+      x: 1089
+      y: 1000
+      width: 596
+      height: 1048
+    inner:
+      serializedVersion: 2
+      x: 1089
+      y: 1000
+      width: 596
+      height: 1048
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: game_name
+    outer:
+      serializedVersion: 2
+      x: 1686
+      y: 1011
+      width: 284
+      height: 89
+    inner:
+      serializedVersion: 2
+      x: 1686
+      y: 1011
+      width: 284
+      height: 89
+    rotated: 0
+    paddingLeft: 0.007042253
+    paddingRight: 0.007042253
+    paddingTop: 0.02247191
+    paddingBottom: 0.01123596
   mCoordinates: 0
   mPixelSize: 1
   mReplacement: {fileID: 0}
+

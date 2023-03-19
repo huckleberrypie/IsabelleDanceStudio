@@ -5828,7 +5828,7 @@ Transform:
   m_GameObject: {fileID: 36}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 30}
-  m_LocalScale: {x: 711.1111, y: 444.44443, z: 1}
+  m_LocalScale: {x: 640, y: 400, z: 1}
   m_Children: []
   m_Father: {fileID: 567}
   m_RootOrder: 0
@@ -6263,7 +6263,7 @@ Transform:
   m_GameObject: {fileID: 68}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 30}
-  m_LocalScale: {x: 711.1111, y: 444.44443, z: 1}
+  m_LocalScale: {x: 640, y: 400, z: 1}
   m_Children: []
   m_Father: {fileID: 567}
   m_RootOrder: 4
@@ -6399,7 +6399,7 @@ Transform:
   m_GameObject: {fileID: 78}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 30}
-  m_LocalScale: {x: 711.1111, y: 444.44443, z: 1}
+  m_LocalScale: {x: 640, y: 400, z: 1}
   m_Children: []
   m_Father: {fileID: 567}
   m_RootOrder: 2
@@ -6624,7 +6624,7 @@ Transform:
   m_GameObject: {fileID: 94}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 30}
-  m_LocalScale: {x: 711.1111, y: 444.44443, z: 1}
+  m_LocalScale: {x: 640, y: 400, z: 1}
   m_Children: []
   m_Father: {fileID: 567}
   m_RootOrder: 3
@@ -7177,7 +7177,7 @@ Transform:
   m_GameObject: {fileID: 131}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: -1}
-  m_LocalScale: {x: 711.1111, y: 444.44443, z: 4.0298824}
+  m_LocalScale: {x: 640, y: 400, z: 4.0298824}
   m_Children: []
   m_Father: {fileID: 493}
   m_RootOrder: 2
@@ -7414,7 +7414,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 148}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 355.16907, y: -199.6139, z: 0}
+  m_LocalPosition: {x: 266.6667, y: -200, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 510}
@@ -7483,7 +7483,7 @@ Transform:
   m_GameObject: {fileID: 152}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 30}
-  m_LocalScale: {x: 711.1111, y: 444.44443, z: 1}
+  m_LocalScale: {x: 640, y: 400, z: 1}
   m_Children: []
   m_Father: {fileID: 567}
   m_RootOrder: 1
@@ -7673,7 +7673,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 166}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.38647124, y: 0.38609505, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 376}
@@ -7927,7 +7927,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 184}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -355.94205, y: 200.3861, z: 0}
+  m_LocalPosition: {x: -266.6667, y: 200, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 386}
@@ -8286,7 +8286,7 @@ Transform:
   m_GameObject: {fileID: 210}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: -1}
-  m_LocalScale: {x: 711.1111, y: 444.44443, z: 1}
+  m_LocalScale: {x: 640, y: 400, z: 1}
   m_Children: []
   m_Father: {fileID: 493}
   m_RootOrder: 3
@@ -8325,7 +8325,7 @@ Transform:
   m_GameObject: {fileID: 213}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 30}
-  m_LocalScale: {x: 711.1111, y: 444.44443, z: 1}
+  m_LocalScale: {x: 640, y: 400, z: 1}
   m_Children: []
   m_Father: {fileID: 567}
   m_RootOrder: 5
@@ -8687,7 +8687,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 240}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.38647124, y: 0.38609505, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 363}
@@ -11162,7 +11162,7 @@ MonoBehaviour:
   mPivot: 0
   mDepth: 3
   mFont: {fileID: 114879826150557391, guid: c407060bd1b57cc4482325452d74962f, type: 2}
-  mText: "Original game by American Girl and Splashworks, Inc.\nPlayStation Vita and
+  mText: "Original game by American Girl and Splashworks, Inc.\nPlayStation Vita, PC and
     ARM64 Android conversions by huckleberrypie and ParkingLotGames.\nBuilt using
     Unity 2018.2.19f1 with NGUI 2.7.0.\n\nThe developers of this port are not in any
     way affiliated with American Girl, Mattel, or Splashworks. We do not claim to

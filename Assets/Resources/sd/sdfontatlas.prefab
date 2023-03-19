@@ -51,8 +51,98 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 03f7db9a480b403690a4a83220213122, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  material: {fileID: 0}
-  sprites: []
+  material: {fileID: 2100000, guid: 79fa2792020e64c4abb562722a7a4f5b, type: 2}
+  sprites:
+  - name: Agenda_Bold_Floater_30
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 38
+      width: 252
+      height: 222
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 38
+      width: 252
+      height: 222
+    rotated: 0
+    paddingLeft: 0.007936508
+    paddingRight: 0.007936508
+    paddingTop: 0.009009009
+    paddingBottom: 0.1441441
+  - name: Agenda_Bold_Floater_30_Blue
+    outer:
+      serializedVersion: 2
+      x: 253
+      y: 38
+      width: 252
+      height: 222
+    inner:
+      serializedVersion: 2
+      x: 253
+      y: 38
+      width: 252
+      height: 222
+    rotated: 0
+    paddingLeft: 0.007936508
+    paddingRight: 0.007936508
+    paddingTop: 0.009009009
+    paddingBottom: 0.1441441
+  - name: Agenda_Bold_Floater_30_Gold
+    outer:
+      serializedVersion: 2
+      x: 508
+      y: 290
+      width: 252
+      height: 222
+    inner:
+      serializedVersion: 2
+      x: 508
+      y: 290
+      width: 252
+      height: 222
+    rotated: 0
+    paddingLeft: 0.007936508
+    paddingRight: 0.007936508
+    paddingTop: 0.009009009
+    paddingBottom: 0.1441441
+  - name: Agenda_Bold_Floater_30_Violet
+    outer:
+      serializedVersion: 2
+      x: 761
+      y: 290
+      width: 252
+      height: 222
+    inner:
+      serializedVersion: 2
+      x: 761
+      y: 290
+      width: 252
+      height: 222
+    rotated: 0
+    paddingLeft: 0.007936508
+    paddingRight: 0.007936508
+    paddingTop: 0.009009009
+    paddingBottom: 0.1441441
+  - name: Agenda_Bold_New_Best_45
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 261
+      width: 507
+      height: 251
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 261
+      width: 507
+      height: 251
+    rotated: 0
+    paddingLeft: 0.003944773
+    paddingRight: 0.00591716
+    paddingTop: 0.007968128
+    paddingBottom: 0.01195219
   mCoordinates: 0
   mPixelSize: 1
   mReplacement: {fileID: 0}

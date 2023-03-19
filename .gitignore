@@ -73,3 +73,6 @@ crashlytics-build.properties
 
 # Auto-generated CPP file
 RegisterIcalls.cpp
+
+# Android keystore
+user.keystore

@@ -51,8 +51,1142 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 03f7db9a480b403690a4a83220213122, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  material: {fileID: 0}
-  sprites: []
+  material: {fileID: 2100000, guid: 3874133506772ce46b0d3ed46a37e3dd, type: 2}
+  sprites:
+  - name: Isabelle020003
+    outer:
+      serializedVersion: 2
+      x: 2198
+      y: 2115
+      width: 721
+      height: 1000
+    inner:
+      serializedVersion: 2
+      x: 2198
+      y: 2115
+      width: 721
+      height: 1000
+    rotated: 0
+    paddingLeft: 0.0443828
+    paddingRight: 0.2038835
+    paddingTop: 0.11
+    paddingBottom: 0.09
+  - name: Isabelle040005
+    outer:
+      serializedVersion: 2
+      x: 780
+      y: 1037
+      width: 694
+      height: 1041
+    inner:
+      serializedVersion: 2
+      x: 780
+      y: 1037
+      width: 694
+      height: 1041
+    rotated: 0
+    paddingLeft: 0.0648415
+    paddingRight: 0.2319885
+    paddingTop: 0.06147934
+    paddingBottom: 0.09125841
+  - name: powerup_burst_animation0010
+    outer:
+      serializedVersion: 2
+      x: 3829
+      y: 3396
+      width: 217
+      height: 228
+    inner:
+      serializedVersion: 2
+      x: 3829
+      y: 3396
+      width: 217
+      height: 228
+    rotated: 0
+    paddingLeft: 0.4516129
+    paddingRight: 0.59447
+    paddingTop: 0.4517544
+    paddingBottom: 0.4035088
+  - name: sequin_burst_animation0004
+    outer:
+      serializedVersion: 2
+      x: 2446
+      y: 645
+      width: 206
+      height: 205
+    inner:
+      serializedVersion: 2
+      x: 2446
+      y: 645
+      width: 206
+      height: 205
+    rotated: 0
+    paddingLeft: 0.1990291
+    paddingRight: 0.1407767
+    paddingTop: 0.1512195
+    paddingBottom: 0.2
+  - name: sequin_burst_animation0001
+    outer:
+      serializedVersion: 2
+      x: 3184
+      y: 3122
+      width: 82
+      height: 80
+    inner:
+      serializedVersion: 2
+      x: 3184
+      y: 3122
+      width: 82
+      height: 80
+    rotated: 0
+    paddingLeft: 1.219512
+    paddingRight: 1.146341
+    paddingTop: 1.125
+    paddingBottom: 1.3375
+  - name: super_pose_bar_fill
+    outer:
+      serializedVersion: 2
+      x: 3267
+      y: 3122
+      width: 50
+      height: 80
+    inner:
+      serializedVersion: 2
+      x: 3267
+      y: 3122
+      width: 50
+      height: 80
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: star_particle_green
+    outer:
+      serializedVersion: 2
+      x: 3507
+      y: 3117
+      width: 27
+      height: 27
+    inner:
+      serializedVersion: 2
+      x: 3507
+      y: 3117
+      width: 27
+      height: 27
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: super_pose_barbar_start
+    outer:
+      serializedVersion: 2
+      x: 3358
+      y: 3122
+      width: 39
+      height: 80
+    inner:
+      serializedVersion: 2
+      x: 3358
+      y: 3122
+      width: 39
+      height: 80
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: powerup_burst_animation0004
+    outer:
+      serializedVersion: 2
+      x: 2673
+      y: 599
+      width: 271
+      height: 270
+    inner:
+      serializedVersion: 2
+      x: 2673
+      y: 599
+      width: 271
+      height: 270
+    rotated: 0
+    paddingLeft: 0.3284133
+    paddingRight: 0.3099631
+    paddingTop: 0.3666667
+    paddingBottom: 0.2
+  - name: powerup_burst_animation0001
+    outer:
+      serializedVersion: 2
+      x: 3398
+      y: 3159
+      width: 68
+      height: 43
+    inner:
+      serializedVersion: 2
+      x: 3398
+      y: 3159
+      width: 68
+      height: 43
+    rotated: 0
+    paddingLeft: 2.75
+    paddingRight: 2.779412
+    paddingTop: 5.116279
+    paddingBottom: 3.72093
+  - name: screen_burst_main
+    outer:
+      serializedVersion: 2
+      x: 2673
+      y: 414
+      width: 182
+      height: 184
+    inner:
+      serializedVersion: 2
+      x: 2673
+      y: 414
+      width: 182
+      height: 184
+    rotated: 0
+    paddingLeft: 0.04945055
+    paddingRight: 0.04945055
+    paddingTop: 0.04347826
+    paddingBottom: 0.04347826
+  - name: Isabelle040003
+    outer:
+      serializedVersion: 2
+      x: 780
+      y: 2
+      width: 698
+      height: 1034
+    inner:
+      serializedVersion: 2
+      x: 780
+      y: 2
+      width: 698
+      height: 1034
+    rotated: 0
+    paddingLeft: 0.02578797
+    paddingRight: 0.2636103
+    paddingTop: 0.07059962
+    paddingBottom: 0.08994197
+  - name: sequin_burst_animation0008
+    outer:
+      serializedVersion: 2
+      x: 3916
+      y: 2943
+      width: 177
+      height: 172
+    inner:
+      serializedVersion: 2
+      x: 3916
+      y: 2943
+      width: 177
+      height: 172
+    rotated: 0
+    paddingLeft: 0.2937853
+    paddingRight: 0.2655367
+    paddingTop: 0.255814
+    paddingBottom: 0.3546512
+  - name: Isabelle010003
+    outer:
+      serializedVersion: 2
+      x: 2576
+      y: 3118
+      width: 607
+      height: 978
+    inner:
+      serializedVersion: 2
+      x: 2576
+      y: 3118
+      width: 607
+      height: 978
+    rotated: 0
+    paddingLeft: 0.2817133
+    paddingRight: 0.2009885
+    paddingTop: 0.1370143
+    paddingBottom: 0.08997955
+  - name: screen_burst_berry_bg
+    outer:
+      serializedVersion: 2
+      x: 2446
+      y: 243
+      width: 200
+      height: 200
+    inner:
+      serializedVersion: 2
+      x: 2446
+      y: 243
+      width: 200
+      height: 200
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: sequin_burst_animation0002
+    outer:
+      serializedVersion: 2
+      x: 3719
+      y: 2117
+      width: 109
+      height: 106
+    inner:
+      serializedVersion: 2
+      x: 3719
+      y: 2117
+      width: 109
+      height: 106
+    rotated: 0
+    paddingLeft: 0.7889909
+    paddingRight: 0.7431192
+    paddingTop: 0.7264151
+    paddingBottom: 0.8867925
+  - name: star_particle_violet
+    outer:
+      serializedVersion: 2
+      x: 3426
+      y: 3131
+      width: 27
+      height: 27
+    inner:
+      serializedVersion: 2
+      x: 3426
+      y: 3131
+      width: 27
+      height: 27
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Isabelle010005
+    outer:
+      serializedVersion: 2
+      x: 1231
+      y: 3122
+      width: 693
+      height: 974
+    inner:
+      serializedVersion: 2
+      x: 1231
+      y: 3122
+      width: 693
+      height: 974
+    rotated: 0
+    paddingLeft: 0.1746032
+    paddingRight: 0.1240981
+    paddingTop: 0.1416838
+    paddingBottom: 0.09034908
+  - name: sequin_burst_animation0005
+    outer:
+      serializedVersion: 2
+      x: 2446
+      y: 851
+      width: 216
+      height: 215
+    inner:
+      serializedVersion: 2
+      x: 2446
+      y: 851
+      width: 216
+      height: 215
+    rotated: 0
+    paddingLeft: 0.162037
+    paddingRight: 0.1157407
+    paddingTop: 0.1302326
+    paddingBottom: 0.1581395
+  - name: powerup_burst_animation0009
+    outer:
+      serializedVersion: 2
+      x: 2673
+      y: 870
+      width: 380
+      height: 310
+    inner:
+      serializedVersion: 2
+      x: 2673
+      y: 870
+      width: 380
+      height: 310
+    rotated: 0
+    paddingLeft: 0.1368421
+    paddingRight: 0.03157895
+    paddingTop: 0.02580645
+    paddingBottom: 0.3387097
+  - name: screen_burst_white_bg
+    outer:
+      serializedVersion: 2
+      x: 2446
+      y: 444
+      width: 200
+      height: 200
+    inner:
+      serializedVersion: 2
+      x: 2446
+      y: 444
+      width: 200
+      height: 200
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: superpose_bar_container
+    outer:
+      serializedVersion: 2
+      x: 3054
+      y: 949
+      width: 553
+      height: 98
+    inner:
+      serializedVersion: 2
+      x: 3054
+      y: 949
+      width: 553
+      height: 98
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: shadow
+    outer:
+      serializedVersion: 2
+      x: 2991
+      y: 1296
+      width: 354
+      height: 129
+    inner:
+      serializedVersion: 2
+      x: 2991
+      y: 1296
+      width: 354
+      height: 129
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Isabelle020002
+    outer:
+      serializedVersion: 2
+      x: 2920
+      y: 2109
+      width: 673
+      height: 1006
+    inner:
+      serializedVersion: 2
+      x: 2920
+      y: 2109
+      width: 673
+      height: 1006
+    rotated: 0
+    paddingLeft: 0.102526
+    paddingRight: 0.2347697
+    paddingTop: 0.1033797
+    paddingBottom: 0.08946322
+  - name: Isabelle020005
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 2118
+      width: 779
+      height: 997
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 2118
+      width: 779
+      height: 997
+    rotated: 0
+    paddingLeft: 0.02952503
+    paddingRight: 0.1258023
+    paddingTop: 0.11334
+    paddingBottom: 0.09027081
+  - name: sequin_burst_animation0006
+    outer:
+      serializedVersion: 2
+      x: 3829
+      y: 3625
+      width: 231
+      height: 228
+    inner:
+      serializedVersion: 2
+      x: 3829
+      y: 3625
+      width: 231
+      height: 228
+    rotated: 0
+    paddingLeft: 0.1125541
+    paddingRight: 0.08225108
+    paddingTop: 0.1052632
+    paddingBottom: 0.1096491
+  - name: powerup_burst_animation0003
+    outer:
+      serializedVersion: 2
+      x: 3829
+      y: 3173
+      width: 220
+      height: 222
+    inner:
+      serializedVersion: 2
+      x: 3829
+      y: 3173
+      width: 220
+      height: 222
+    rotated: 0
+    paddingLeft: 0.5227273
+    paddingRight: 0.4954545
+    paddingTop: 0.5540541
+    paddingBottom: 0.3513514
+  - name: ays_window
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 3116
+      width: 1230
+      height: 980
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 3116
+      width: 1230
+      height: 980
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: powerup_burst_animation0005
+    outer:
+      serializedVersion: 2
+      x: 3746
+      y: 1200
+      width: 287
+      height: 284
+    inner:
+      serializedVersion: 2
+      x: 3746
+      y: 1200
+      width: 287
+      height: 284
+    rotated: 0
+    paddingLeft: 0.2752613
+    paddingRight: 0.271777
+    paddingTop: 0.3309859
+    paddingBottom: 0.1584507
+  - name: star_particle_indigo
+    outer:
+      serializedVersion: 2
+      x: 3535
+      y: 3173
+      width: 27
+      height: 27
+    inner:
+      serializedVersion: 2
+      x: 3535
+      y: 3173
+      width: 27
+      height: 27
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: screen_burst_stars
+    outer:
+      serializedVersion: 2
+      x: 3390
+      y: 1256
+      width: 187
+      height: 194
+    inner:
+      serializedVersion: 2
+      x: 3390
+      y: 1256
+      width: 187
+      height: 194
+    rotated: 0
+    paddingLeft: 0.03743315
+    paddingRight: 0.03208556
+    paddingTop: 0.01546392
+    paddingBottom: 0.01546392
+  - name: star_particle_red
+    outer:
+      serializedVersion: 2
+      x: 3454
+      y: 3131
+      width: 27
+      height: 27
+    inner:
+      serializedVersion: 2
+      x: 3454
+      y: 3131
+      width: 27
+      height: 27
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: star_particle_white
+    outer:
+      serializedVersion: 2
+      x: 3398
+      y: 3131
+      width: 27
+      height: 27
+    inner:
+      serializedVersion: 2
+      x: 3398
+      y: 3131
+      width: 27
+      height: 27
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: star_particle_orange
+    outer:
+      serializedVersion: 2
+      x: 3507
+      y: 3173
+      width: 27
+      height: 27
+    inner:
+      serializedVersion: 2
+      x: 3507
+      y: 3173
+      width: 27
+      height: 27
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: super_bar_glow
+    outer:
+      serializedVersion: 2
+      x: 3054
+      y: 1048
+      width: 588
+      height: 132
+    inner:
+      serializedVersion: 2
+      x: 3054
+      y: 1048
+      width: 588
+      height: 132
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: sequin_burst_animation0007
+    outer:
+      serializedVersion: 2
+      x: 3829
+      y: 3854
+      width: 245
+      height: 242
+    inner:
+      serializedVersion: 2
+      x: 3829
+      y: 3854
+      width: 245
+      height: 242
+    rotated: 0
+    paddingLeft: 0.06530612
+    paddingRight: 0.06122449
+    paddingTop: 0.07024793
+    paddingBottom: 0.07438017
+  - name: powerup_burst_animation0008
+    outer:
+      serializedVersion: 2
+      x: 2991
+      y: 1426
+      width: 398
+      height: 372
+    inner:
+      serializedVersion: 2
+      x: 2991
+      y: 1426
+      width: 398
+      height: 372
+    rotated: 0
+    paddingLeft: 0.03266332
+    paddingRight: 0.08291458
+    paddingTop: 0.08333334
+    paddingBottom: 0.05376344
+  - name: sequin_burst_animation0009
+    outer:
+      serializedVersion: 2
+      x: 3482
+      y: 3138
+      width: 23
+      height: 20
+    inner:
+      serializedVersion: 2
+      x: 3482
+      y: 3138
+      width: 23
+      height: 20
+    rotated: 0
+    paddingLeft: 5.434783
+    paddingRight: 5.565217
+    paddingTop: 6.25
+    paddingBottom: 6.6
+  - name: powerup_burst_animation0002
+    outer:
+      serializedVersion: 2
+      x: 3594
+      y: 2099
+      width: 124
+      height: 124
+    inner:
+      serializedVersion: 2
+      x: 3594
+      y: 2099
+      width: 124
+      height: 124
+    rotated: 0
+    paddingLeft: 1.290323
+    paddingRight: 1.290323
+    paddingTop: 1.387097
+    paddingBottom: 1.024194
+  - name: super_pose_barbar_end
+    outer:
+      serializedVersion: 2
+      x: 3318
+      y: 3122
+      width: 39
+      height: 80
+    inner:
+      serializedVersion: 2
+      x: 3318
+      y: 3122
+      width: 39
+      height: 80
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: star_particle_blue
+    outer:
+      serializedVersion: 2
+      x: 3467
+      y: 3175
+      width: 27
+      height: 27
+    inner:
+      serializedVersion: 2
+      x: 3467
+      y: 3175
+      width: 27
+      height: 27
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: powerup_burst_animation0007
+    outer:
+      serializedVersion: 2
+      x: 3390
+      y: 1451
+      width: 355
+      height: 347
+    inner:
+      serializedVersion: 2
+      x: 3390
+      y: 1451
+      width: 355
+      height: 347
+    rotated: 0
+    paddingLeft: 0.09859155
+    paddingRight: 0.1521127
+    paddingTop: 0.1527378
+    paddingBottom: 0.06628242
+  - name: superpose_bar_text
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 30
+      width: 366
+      height: 48
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 30
+      width: 366
+      height: 48
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Isabelle040004
+    outer:
+      serializedVersion: 2
+      x: 1501
+      y: 2078
+      width: 696
+      height: 1037
+    inner:
+      serializedVersion: 2
+      x: 1501
+      y: 2078
+      width: 696
+      height: 1037
+    rotated: 0
+    paddingLeft: 0.04741379
+    paddingRight: 0.2456897
+    paddingTop: 0.06653809
+    paddingBottom: 0.0906461
+  - name: Isabelle020001
+    outer:
+      serializedVersion: 2
+      x: 1501
+      y: 1065
+      width: 624
+      height: 1012
+    inner:
+      serializedVersion: 2
+      x: 1501
+      y: 1065
+      width: 624
+      height: 1012
+    rotated: 0
+    paddingLeft: 0.1714744
+    paddingRight: 0.2708333
+    paddingTop: 0.09683795
+    paddingBottom: 0.0889328
+  - name: Isabelle010004
+    outer:
+      serializedVersion: 2
+      x: 1925
+      y: 3120
+      width: 650
+      height: 976
+    inner:
+      serializedVersion: 2
+      x: 1925
+      y: 3120
+      width: 650
+      height: 976
+    rotated: 0
+    paddingLeft: 0.2246154
+    paddingRight: 0.16
+    paddingTop: 0.1393443
+    paddingBottom: 0.09016393
+  - name: Isabelle020004
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 79
+      width: 751
+      height: 999
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 79
+      width: 751
+      height: 999
+    rotated: 0
+    paddingLeft: 0.03595207
+    paddingRight: 0.1624501
+    paddingTop: 0.1111111
+    paddingBottom: 0.09009009
+  - name: special_bounce
+    outer:
+      serializedVersion: 2
+      x: 4061
+      y: 3645
+      width: 32
+      height: 208
+    inner:
+      serializedVersion: 2
+      x: 4061
+      y: 3645
+      width: 32
+      height: 208
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0.2307692
+  - name: star_particle_yellow
+    outer:
+      serializedVersion: 2
+      x: 3507
+      y: 3145
+      width: 27
+      height: 27
+    inner:
+      serializedVersion: 2
+      x: 3507
+      y: 3145
+      width: 27
+      height: 27
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: sequin_burst_animation0003
+    outer:
+      serializedVersion: 2
+      x: 3916
+      y: 2773
+      width: 169
+      height: 169
+    inner:
+      serializedVersion: 2
+      x: 3916
+      y: 2773
+      width: 169
+      height: 169
+    rotated: 0
+    paddingLeft: 0.3491124
+    paddingRight: 0.2840237
+    paddingTop: 0.2899408
+    paddingBottom: 0.3491124
+  - name: powerup_burst_animation0011
+    outer:
+      serializedVersion: 2
+      x: 2126
+      y: 5
+      width: 244
+      height: 167
+    inner:
+      serializedVersion: 2
+      x: 2126
+      y: 5
+      width: 244
+      height: 167
+    rotated: 0
+    paddingLeft: 0.3483607
+    paddingRight: 0.4713115
+    paddingTop: 1.05988
+    paddingBottom: 0.4730539
+  - name: screen_burst_ring
+    outer:
+      serializedVersion: 2
+      x: 2446
+      y: 49
+      width: 192
+      height: 193
+    inner:
+      serializedVersion: 2
+      x: 2446
+      y: 49
+      width: 192
+      height: 193
+    rotated: 0
+    paddingLeft: 0.02083333
+    paddingRight: 0.02083333
+    paddingTop: 0.02072539
+    paddingBottom: 0.01554404
+  - name: Isabelle010001
+    outer:
+      serializedVersion: 2
+      x: 2126
+      y: 1067
+      width: 546
+      height: 1010
+    inner:
+      serializedVersion: 2
+      x: 2126
+      y: 1067
+      width: 546
+      height: 1010
+    rotated: 0
+    paddingLeft: 0.4157509
+    paddingRight: 0.2326007
+    paddingTop: 0.0990099
+    paddingBottom: 0.08910891
+  - name: Isabelle040002
+    outer:
+      serializedVersion: 2
+      x: 780
+      y: 2079
+      width: 720
+      height: 1036
+    inner:
+      serializedVersion: 2
+      x: 780
+      y: 2079
+      width: 720
+      height: 1036
+    rotated: 0
+    paddingLeft: 0.01666667
+    paddingRight: 0.2333333
+    paddingTop: 0.07625483
+    paddingBottom: 0.08204633
+  - name: Isabelle040001
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 1079
+      width: 736
+      height: 1038
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 1079
+      width: 736
+      height: 1038
+    rotated: 0
+    paddingLeft: 0.01630435
+    paddingRight: 0.2065217
+    paddingTop: 0.08188824
+    paddingBottom: 0.07418112
+  - name: Isabelle010002
+    outer:
+      serializedVersion: 2
+      x: 1501
+      y: 65
+      width: 569
+      height: 999
+    inner:
+      serializedVersion: 2
+      x: 1501
+      y: 65
+      width: 569
+      height: 999
+    rotated: 0
+    paddingLeft: 0.3550088
+    paddingRight: 0.2267135
+    paddingTop: 0.1131131
+    paddingBottom: 0.08808809
+  - name: powerup_burst_animation0006
+    outer:
+      serializedVersion: 2
+      x: 3746
+      y: 1485
+      width: 317
+      height: 313
+    inner:
+      serializedVersion: 2
+      x: 3746
+      y: 1485
+      width: 317
+      height: 313
+    rotated: 0
+    paddingLeft: 0.1798107
+    paddingRight: 0.2208202
+    paddingTop: 0.2428115
+    paddingBottom: 0.1086262
+  - name: gameover
+    outer:
+      serializedVersion: 2
+      x: 2991
+      y: 1799
+      width: 1001
+      height: 278
+    inner:
+      serializedVersion: 2
+      x: 2991
+      y: 1799
+      width: 1001
+      height: 278
+    rotated: 0
+    paddingLeft: 0.01198801
+    paddingRight: 0.01098901
+    paddingTop: 0.03956835
+    paddingBottom: 0.03956835
+  - name: Isabelle_pose_idle0003
+    outer:
+      serializedVersion: 2
+      x: 2126
+      y: 173
+      width: 319
+      height: 893
+    inner:
+      serializedVersion: 2
+      x: 2126
+      y: 173
+      width: 319
+      height: 893
+    rotated: 0
+    paddingLeft: 1.322884
+    paddingRight: 0.5611285
+    paddingTop: 0.2597984
+    paddingBottom: 0.08398657
+  - name: Isabelle_pose_idle0002
+    outer:
+      serializedVersion: 2
+      x: 3594
+      y: 2224
+      width: 321
+      height: 891
+    inner:
+      serializedVersion: 2
+      x: 3594
+      y: 2224
+      width: 321
+      height: 891
+    rotated: 0
+    paddingLeft: 1.311527
+    paddingRight: 0.5545171
+    paddingTop: 0.2626263
+    paddingBottom: 0.08417509
+  - name: Isabelle_pose_idle0004
+    outer:
+      serializedVersion: 2
+      x: 2673
+      y: 1181
+      width: 317
+      height: 896
+    inner:
+      serializedVersion: 2
+      x: 2673
+      y: 1181
+      width: 317
+      height: 896
+    rotated: 0
+    paddingLeft: 1.334385
+    paddingRight: 0.5678234
+    paddingTop: 0.2555804
+    paddingBottom: 0.08370536
+  - name: Isabelle_pose_idle0001
+    outer:
+      serializedVersion: 2
+      x: 3184
+      y: 3203
+      width: 322
+      height: 893
+    inner:
+      serializedVersion: 2
+      x: 3184
+      y: 3203
+      width: 322
+      height: 893
+    rotated: 0
+    paddingLeft: 1.307453
+    paddingRight: 0.5496894
+    paddingTop: 0.2597984
+    paddingBottom: 0.08398657
+  - name: Isabelle_pose_idle0005
+    outer:
+      serializedVersion: 2
+      x: 3507
+      y: 3201
+      width: 321
+      height: 895
+    inner:
+      serializedVersion: 2
+      x: 3507
+      y: 3201
+      width: 321
+      height: 895
+    rotated: 0
+    paddingLeft: 1.311527
+    paddingRight: 0.5545171
+    paddingTop: 0.2569833
+    paddingBottom: 0.08379889
   mCoordinates: 0
-  mPixelSize: 1
+  mPixelSize: 0.25
   mReplacement: {fileID: 0}

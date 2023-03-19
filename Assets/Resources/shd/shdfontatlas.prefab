@@ -51,8 +51,98 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 03f7db9a480b403690a4a83220213122, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  material: {fileID: 0}
-  sprites: []
+  material: {fileID: 2100000, guid: dc5819a91047ceb4cbfc8691d77cb498, type: 2}
+  sprites:
+  - name: Agenda_Bold_Floater_120
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 595
+      width: 1020
+      height: 722
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 595
+      width: 1020
+      height: 722
+    rotated: 0
+    paddingLeft: 0.001960784
+    paddingRight: 0.001960784
+    paddingTop: 0.002770083
+    paddingBottom: 0.4155125
+  - name: Agenda_Bold_Floater_120_Blue
+    outer:
+      serializedVersion: 2
+      x: 2034
+      y: 1326
+      width: 1020
+      height: 722
+    inner:
+      serializedVersion: 2
+      x: 2034
+      y: 1326
+      width: 1020
+      height: 722
+    rotated: 0
+    paddingLeft: 0.001960784
+    paddingRight: 0.001960784
+    paddingTop: 0.002770083
+    paddingBottom: 0.4155125
+  - name: Agenda_Bold_Floater_120_Gold
+    outer:
+      serializedVersion: 2
+      x: 3055
+      y: 1326
+      width: 1020
+      height: 722
+    inner:
+      serializedVersion: 2
+      x: 3055
+      y: 1326
+      width: 1020
+      height: 722
+    rotated: 0
+    paddingLeft: 0.001960784
+    paddingRight: 0.001960784
+    paddingTop: 0.002770083
+    paddingBottom: 0.4155125
+  - name: Agenda_Bold_Floater_120_Violet
+    outer:
+      serializedVersion: 2
+      x: 2034
+      y: 603
+      width: 1020
+      height: 722
+    inner:
+      serializedVersion: 2
+      x: 2034
+      y: 603
+      width: 1020
+      height: 722
+    rotated: 0
+    paddingLeft: 0.001960784
+    paddingRight: 0.001960784
+    paddingTop: 0.002770083
+    paddingBottom: 0.4155125
+  - name: Agenda_Bold_New_Best_180
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 1318
+      width: 2033
+      height: 730
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 1318
+      width: 2033
+      height: 730
+    rotated: 0
+    paddingLeft: 0.0009837678
+    paddingRight: 0.006394491
+    paddingTop: 0.002739726
+    paddingBottom: 0.4
   mCoordinates: 0
-  mPixelSize: 1
+  mPixelSize: 0.25
   mReplacement: {fileID: 0}

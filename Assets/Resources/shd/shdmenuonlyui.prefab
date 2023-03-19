@@ -51,8 +51,404 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 03f7db9a480b403690a4a83220213122, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  material: {fileID: 0}
-  sprites: []
+  material: {fileID: 2100000, guid: f10b0d96427ddbc4e955f4ab905c1844, type: 2}
+  sprites:
+  - name: sequins_bottom_left
+    outer:
+      serializedVersion: 2
+      x: 1115
+      y: 1318
+      width: 1139
+      height: 564
+    inner:
+      serializedVersion: 2
+      x: 1115
+      y: 1318
+      width: 1139
+      height: 564
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Isabelle_Game_Complete
+    outer:
+      serializedVersion: 2
+      x: 1115
+      y: 269
+      width: 596
+      height: 1048
+    inner:
+      serializedVersion: 2
+      x: 1115
+      y: 269
+      width: 596
+      height: 1048
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: htp_window
+    outer:
+      serializedVersion: 2
+      x: 2561
+      y: 3061
+      width: 1439
+      height: 1035
+    inner:
+      serializedVersion: 2
+      x: 2561
+      y: 3061
+      width: 1439
+      height: 1035
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: privacy_txt_main
+    outer:
+      serializedVersion: 2
+      x: 2561
+      y: 2922
+      width: 153
+      height: 42
+    inner:
+      serializedVersion: 2
+      x: 2561
+      y: 2922
+      width: 153
+      height: 42
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: help_button_touched
+    outer:
+      serializedVersion: 2
+      x: 630
+      y: 67
+      width: 209
+      height: 189
+    inner:
+      serializedVersion: 2
+      x: 630
+      y: 67
+      width: 209
+      height: 189
+    rotated: 0
+    paddingLeft: 0.05263158
+    paddingRight: 0.03827751
+    paddingTop: 0.06878307
+    paddingBottom: 0.05291005
+  - name: isabelle_main-
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 1318
+      width: 1114
+      height: 1600
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 1318
+      width: 1114
+      height: 1600
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: sequins_top_right
+    outer:
+      serializedVersion: 2
+      x: 2785
+      y: 2345
+      width: 1172
+      height: 573
+    inner:
+      serializedVersion: 2
+      x: 2785
+      y: 2345
+      width: 1172
+      height: 573
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: arrow_button_default
+    outer:
+      serializedVersion: 2
+      x: 210
+      y: 67
+      width: 209
+      height: 189
+    inner:
+      serializedVersion: 2
+      x: 210
+      y: 67
+      width: 209
+      height: 189
+    rotated: 0
+    paddingLeft: 0.05263158
+    paddingRight: 0.03827751
+    paddingTop: 0.06878307
+    paddingBottom: 0.05291005
+  - name: dot
+    outer:
+      serializedVersion: 2
+      x: 4001
+      y: 4048
+      width: 48
+      height: 48
+    inner:
+      serializedVersion: 2
+      x: 4001
+      y: 4048
+      width: 48
+      height: 48
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: arrow_button_touched
+    outer:
+      serializedVersion: 2
+      x: 840
+      y: 67
+      width: 209
+      height: 189
+    inner:
+      serializedVersion: 2
+      x: 840
+      y: 67
+      width: 209
+      height: 189
+    rotated: 0
+    paddingLeft: 0.05263158
+    paddingRight: 0.03827751
+    paddingTop: 0.06878307
+    paddingBottom: 0.05291005
+  - name: isabelle_sequin_htp
+    outer:
+      serializedVersion: 2
+      x: 3023
+      y: 1159
+      width: 662
+      height: 723
+    inner:
+      serializedVersion: 2
+      x: 3023
+      y: 1159
+      width: 662
+      height: 723
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: ok_button_default
+    outer:
+      serializedVersion: 2
+      x: 1115
+      y: 79
+      width: 209
+      height: 189
+    inner:
+      serializedVersion: 2
+      x: 1115
+      y: 79
+      width: 209
+      height: 189
+    rotated: 0
+    paddingLeft: 0.05263158
+    paddingRight: 0.03827751
+    paddingTop: 0.06878307
+    paddingBottom: 0.05291005
+  - name: new_best_star
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 257
+      width: 1097
+      height: 1060
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 257
+      width: 1097
+      height: 1060
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: superpose_bar_htp
+    outer:
+      serializedVersion: 2
+      x: 2561
+      y: 2965
+      width: 550
+      height: 95
+    inner:
+      serializedVersion: 2
+      x: 2561
+      y: 2965
+      width: 550
+      height: 95
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: clock_icon
+    outer:
+      serializedVersion: 2
+      x: 3112
+      y: 2941
+      width: 120
+      height: 119
+    inner:
+      serializedVersion: 2
+      x: 3112
+      y: 2941
+      width: 120
+      height: 119
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: white_swoosh_game_complete
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 2919
+      width: 2560
+      height: 1177
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 2919
+      width: 2560
+      height: 1177
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: dot_empty
+    outer:
+      serializedVersion: 2
+      x: 4001
+      y: 3999
+      width: 48
+      height: 48
+    inner:
+      serializedVersion: 2
+      x: 4001
+      y: 3999
+      width: 48
+      height: 48
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: help_button_default
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 67
+      width: 209
+      height: 189
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 67
+      width: 209
+      height: 189
+    rotated: 0
+    paddingLeft: 0.05263158
+    paddingRight: 0.03827751
+    paddingTop: 0.06878307
+    paddingBottom: 0.05291005
+  - name: ok_button_touched
+    outer:
+      serializedVersion: 2
+      x: 420
+      y: 67
+      width: 209
+      height: 189
+    inner:
+      serializedVersion: 2
+      x: 420
+      y: 67
+      width: 209
+      height: 189
+    rotated: 0
+    paddingLeft: 0.05263158
+    paddingRight: 0.03827751
+    paddingTop: 0.06878307
+    paddingBottom: 0.05291005
+  - name: isabelle_superpose_htp
+    outer:
+      serializedVersion: 2
+      x: 2255
+      y: 1078
+      width: 767
+      height: 804
+    inner:
+      serializedVersion: 2
+      x: 2255
+      y: 1078
+      width: 767
+      height: 804
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: privacy_window_BG
+    outer:
+      serializedVersion: 2
+      x: 1115
+      y: 1883
+      width: 1669
+      height: 1035
+    inner:
+      serializedVersion: 2
+      x: 1115
+      y: 1883
+      width: 1669
+      height: 1035
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: game_name
+    outer:
+      serializedVersion: 2
+      x: 2785
+      y: 1990
+      width: 1136
+      height: 354
+    inner:
+      serializedVersion: 2
+      x: 2785
+      y: 1990
+      width: 1136
+      height: 354
+    rotated: 0
+    paddingLeft: 0.007042253
+    paddingRight: 0.007042253
+    paddingTop: 0.01977401
+    paddingBottom: 0.01977401
   mCoordinates: 0
-  mPixelSize: 1
+  mPixelSize: 0.25
   mReplacement: {fileID: 0}

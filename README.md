@@ -14,14 +14,12 @@ Special thanks to hatoving and ParkingLotGames for their help in making this pos
 ## Features
 * Essential game functionality, of course
 * Upgraded to Unity 2018.2.19f1 from Unity 4.3.2
-* Support for platforms such as the PlayStation Vita
-
-## Issues
-* Compiling for PC works, but the resulting game comes with missing sprites and broken logic
+* Support for platforms such as the PlayStation Vita and Windows
 
 ## TODO
 * Add a simple localisation script (JSON or something along those lines, idk) to aid in fan translations?
-* Port the game to modern Android and iOS versions
+* Port the game to iOS? I don't have a working Mac or Hackintosh with Xcode so idk
+* Native Linux client? That or just have the player run it through Wine or Proton and get over it
 
 ## Screenshots
 <img src="https://i.imgur.com/Wnlrv12.png">

@@ -51,8 +51,1034 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 03f7db9a480b403690a4a83220213122, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  material: {fileID: 0}
-  sprites: []
+  material: {fileID: 2100000, guid: 460473283c8050f409332dc58c35955a, type: 2}
+  sprites:
+  - name: age_gate_slash
+    outer:
+      serializedVersion: 2
+      x: 987
+      y: 43
+      width: 23
+      height: 39
+    inner:
+      serializedVersion: 2
+      x: 987
+      y: 43
+      width: 23
+      height: 39
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: black_pearl
+    outer:
+      serializedVersion: 2
+      x: 167
+      y: 921
+      width: 53
+      height: 53
+    inner:
+      serializedVersion: 2
+      x: 167
+      y: 921
+      width: 53
+      height: 53
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: black_pearl_glow
+    outer:
+      serializedVersion: 2
+      x: 112
+      y: 921
+      width: 53
+      height: 53
+    inner:
+      serializedVersion: 2
+      x: 112
+      y: 921
+      width: 53
+      height: 53
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: bounce_powerup
+    outer:
+      serializedVersion: 2
+      x: 57
+      y: 921
+      width: 53
+      height: 53
+    inner:
+      serializedVersion: 2
+      x: 57
+      y: 921
+      width: 53
+      height: 53
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: bounce_powerup_glow
+    outer:
+      serializedVersion: 2
+      x: 2
+      y: 921
+      width: 53
+      height: 53
+    inner:
+      serializedVersion: 2
+      x: 2
+      y: 921
+      width: 53
+      height: 53
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: button_default
+    outer:
+      serializedVersion: 2
+      x: 721
+      y: 167
+      width: 205
+      height: 53
+    inner:
+      serializedVersion: 2
+      x: 721
+      y: 167
+      width: 205
+      height: 53
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: button_smaller_default
+    outer:
+      serializedVersion: 2
+      x: 721
+      y: 112
+      width: 205
+      height: 53
+    inner:
+      serializedVersion: 2
+      x: 721
+      y: 112
+      width: 205
+      height: 53
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: button_smaller_touched
+    outer:
+      serializedVersion: 2
+      x: 721
+      y: 57
+      width: 205
+      height: 53
+    inner:
+      serializedVersion: 2
+      x: 721
+      y: 57
+      width: 205
+      height: 53
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: button_touched
+    outer:
+      serializedVersion: 2
+      x: 721
+      y: 2
+      width: 205
+      height: 53
+    inner:
+      serializedVersion: 2
+      x: 721
+      y: 2
+      width: 205
+      height: 53
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Isabelle_pose_Default0001
+    outer:
+      serializedVersion: 2
+      x: 639
+      y: 753
+      width: 80
+      height: 232
+    inner:
+      serializedVersion: 2
+      x: 639
+      y: 753
+      width: 80
+      height: 232
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Isabelle_pose_Default0002
+    outer:
+      serializedVersion: 2
+      x: 557
+      y: 753
+      width: 80
+      height: 232
+    inner:
+      serializedVersion: 2
+      x: 557
+      y: 753
+      width: 80
+      height: 232
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Isabelle_pose_Default0003
+    outer:
+      serializedVersion: 2
+      x: 475
+      y: 753
+      width: 80
+      height: 232
+    inner:
+      serializedVersion: 2
+      x: 475
+      y: 753
+      width: 80
+      height: 232
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Isabelle_pose_Default0004
+    outer:
+      serializedVersion: 2
+      x: 393
+      y: 753
+      width: 80
+      height: 232
+    inner:
+      serializedVersion: 2
+      x: 393
+      y: 753
+      width: 80
+      height: 232
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Isabelle_pose_Default0005
+    outer:
+      serializedVersion: 2
+      x: 311
+      y: 753
+      width: 80
+      height: 232
+    inner:
+      serializedVersion: 2
+      x: 311
+      y: 753
+      width: 80
+      height: 232
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Isabelle_pose_Idle_blink
+    outer:
+      serializedVersion: 2
+      x: 942
+      y: 745
+      width: 80
+      height: 232
+    inner:
+      serializedVersion: 2
+      x: 942
+      y: 745
+      width: 80
+      height: 224
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Isabelle_pose_idle0001
+    outer:
+      serializedVersion: 2
+      x: 942
+      y: 511
+      width: 80
+      height: 232
+    inner:
+      serializedVersion: 2
+      x: 942
+      y: 511
+      width: 80
+      height: 232
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Isabelle_pose_idle0002
+    outer:
+      serializedVersion: 2
+      x: 886
+      y: 222
+      width: 80
+      height: 232
+    inner:
+      serializedVersion: 2
+      x: 886
+      y: 222
+      width: 80
+      height: 224
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Isabelle_pose_idle0003
+    outer:
+      serializedVersion: 2
+      x: 804
+      y: 222
+      width: 80
+      height: 232
+    inner:
+      serializedVersion: 2
+      x: 804
+      y: 222
+      width: 80
+      height: 232
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Isabelle_pose_idle0004
+    outer:
+      serializedVersion: 2
+      x: 559
+      y: 270
+      width: 80
+      height: 232
+    inner:
+      serializedVersion: 2
+      x: 559
+      y: 270
+      width: 80
+      height: 232
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Isabelle_pose_idle0005
+    outer:
+      serializedVersion: 2
+      x: 229
+      y: 687
+      width: 80
+      height: 232
+    inner:
+      serializedVersion: 2
+      x: 229
+      y: 687
+      width: 80
+      height: 224
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Isabelle060001
+    outer:
+      serializedVersion: 2
+      x: 780
+      y: 519
+      width: 160
+      height: 281
+    inner:
+      serializedVersion: 2
+      x: 780
+      y: 519
+      width: 160
+      height: 281
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Isabelle060002
+    outer:
+      serializedVersion: 2
+      x: 642
+      y: 236
+      width: 160
+      height: 281
+    inner:
+      serializedVersion: 2
+      x: 642
+      y: 236
+      width: 160
+      height: 281
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Isabelle060003
+    outer:
+      serializedVersion: 2
+      x: 164
+      y: 404
+      width: 160
+      height: 281
+    inner:
+      serializedVersion: 2
+      x: 164
+      y: 404
+      width: 160
+      height: 281
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Isabelle060004
+    outer:
+      serializedVersion: 2
+      x: 2
+      y: 404
+      width: 160
+      height: 281
+    inner:
+      serializedVersion: 2
+      x: 2
+      y: 404
+      width: 160
+      height: 281
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Isabelle060005
+    outer:
+      serializedVersion: 2
+      x: 332
+      y: 2
+      width: 160
+      height: 281
+    inner:
+      serializedVersion: 2
+      x: 332
+      y: 2
+      width: 160
+      height: 281
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Isabelle08_Superpose0001
+    outer:
+      serializedVersion: 2
+      x: 553
+      y: 519
+      width: 225
+      height: 232
+    inner:
+      serializedVersion: 2
+      x: 553
+      y: 519
+      width: 225
+      height: 232
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Isabelle08_Superpose0002
+    outer:
+      serializedVersion: 2
+      x: 2
+      y: 687
+      width: 225
+      height: 232
+    inner:
+      serializedVersion: 2
+      x: 2
+      y: 687
+      width: 225
+      height: 232
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Isabelle08_Superpose0003
+    outer:
+      serializedVersion: 2
+      x: 326
+      y: 519
+      width: 225
+      height: 232
+    inner:
+      serializedVersion: 2
+      x: 326
+      y: 519
+      width: 225
+      height: 232
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Isabelle08_Superpose0004
+    outer:
+      serializedVersion: 2
+      x: 494
+      y: 2
+      width: 225
+      height: 232
+    inner:
+      serializedVersion: 2
+      x: 494
+      y: 2
+      width: 225
+      height: 232
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Isabelle08_Superpose0005
+    outer:
+      serializedVersion: 2
+      x: 332
+      y: 285
+      width: 225
+      height: 232
+    inner:
+      serializedVersion: 2
+      x: 332
+      y: 285
+      width: 225
+      height: 232
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: number_box
+    outer:
+      serializedVersion: 2
+      x: 981
+      y: 442
+      width: 37
+      height: 41
+    inner:
+      serializedVersion: 2
+      x: 981
+      y: 442
+      width: 37
+      height: 41
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: pause_button_defaullt
+    outer:
+      serializedVersion: 2
+      x: 276
+      y: 921
+      width: 24
+      height: 32
+    inner:
+      serializedVersion: 2
+      x: 276
+      y: 921
+      width: 24
+      height: 32
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: pause_button_touched
+    outer:
+      serializedVersion: 2
+      x: 987
+      y: 2
+      width: 31
+      height: 39
+    inner:
+      serializedVersion: 2
+      x: 987
+      y: 2
+      width: 31
+      height: 39
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: random_multiplier
+    outer:
+      serializedVersion: 2
+      x: 968
+      y: 387
+      width: 53
+      height: 53
+    inner:
+      serializedVersion: 2
+      x: 968
+      y: 387
+      width: 53
+      height: 53
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: random_multiplier_glow
+    outer:
+      serializedVersion: 2
+      x: 968
+      y: 332
+      width: 53
+      height: 53
+    inner:
+      serializedVersion: 2
+      x: 968
+      y: 332
+      width: 53
+      height: 53
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: sequin_pink
+    outer:
+      serializedVersion: 2
+      x: 98
+      y: 976
+      width: 30
+      height: 27
+    inner:
+      serializedVersion: 2
+      x: 98
+      y: 976
+      width: 30
+      height: 27
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: sequin_purple
+    outer:
+      serializedVersion: 2
+      x: 66
+      y: 976
+      width: 30
+      height: 27
+    inner:
+      serializedVersion: 2
+      x: 66
+      y: 976
+      width: 30
+      height: 27
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: sequin_red
+    outer:
+      serializedVersion: 2
+      x: 34
+      y: 976
+      width: 30
+      height: 27
+    inner:
+      serializedVersion: 2
+      x: 34
+      y: 976
+      width: 30
+      height: 27
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: sequin_violet
+    outer:
+      serializedVersion: 2
+      x: 2
+      y: 976
+      width: 30
+      height: 27
+    inner:
+      serializedVersion: 2
+      x: 2
+      y: 976
+      width: 30
+      height: 27
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: sequin_yellow
+    outer:
+      serializedVersion: 2
+      x: 987
+      y: 192
+      width: 30
+      height: 27
+    inner:
+      serializedVersion: 2
+      x: 987
+      y: 192
+      width: 30
+      height: 27
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: sound_button_default
+    outer:
+      serializedVersion: 2
+      x: 928
+      y: 167
+      width: 57
+      height: 53
+    inner:
+      serializedVersion: 2
+      x: 928
+      y: 167
+      width: 57
+      height: 53
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: sound_button_off
+    outer:
+      serializedVersion: 2
+      x: 928
+      y: 112
+      width: 57
+      height: 53
+    inner:
+      serializedVersion: 2
+      x: 928
+      y: 112
+      width: 57
+      height: 53
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: sound_button_touched
+    outer:
+      serializedVersion: 2
+      x: 928
+      y: 57
+      width: 57
+      height: 53
+    inner:
+      serializedVersion: 2
+      x: 928
+      y: 57
+      width: 57
+      height: 53
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: square_button_default
+    outer:
+      serializedVersion: 2
+      x: 928
+      y: 2
+      width: 57
+      height: 53
+    inner:
+      serializedVersion: 2
+      x: 928
+      y: 2
+      width: 57
+      height: 53
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: square_button_touched
+    outer:
+      serializedVersion: 2
+      x: 922
+      y: 456
+      width: 57
+      height: 53
+    inner:
+      serializedVersion: 2
+      x: 922
+      y: 456
+      width: 57
+      height: 53
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: super_pose_barstar_item_blue
+    outer:
+      serializedVersion: 2
+      x: 259
+      y: 973
+      width: 35
+      height: 34
+    inner:
+      serializedVersion: 2
+      x: 259
+      y: 973
+      width: 35
+      height: 34
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: super_pose_barstar_item_pink
+    outer:
+      serializedVersion: 2
+      x: 222
+      y: 973
+      width: 35
+      height: 34
+    inner:
+      serializedVersion: 2
+      x: 222
+      y: 973
+      width: 35
+      height: 34
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: super_pose_barstar_item_red
+    outer:
+      serializedVersion: 2
+      x: 987
+      y: 156
+      width: 35
+      height: 34
+    inner:
+      serializedVersion: 2
+      x: 987
+      y: 156
+      width: 35
+      height: 34
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: super_pose_barstar_item_white
+    outer:
+      serializedVersion: 2
+      x: 987
+      y: 120
+      width: 35
+      height: 34
+    inner:
+      serializedVersion: 2
+      x: 987
+      y: 120
+      width: 35
+      height: 34
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: super_pose_barstar_item_yellow
+    outer:
+      serializedVersion: 2
+      x: 987
+      y: 84
+      width: 35
+      height: 34
+    inner:
+      serializedVersion: 2
+      x: 987
+      y: 84
+      width: 35
+      height: 34
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: superpose_bar_tip_glow
+    outer:
+      serializedVersion: 2
+      x: 494
+      y: 236
+      width: 146
+      height: 32
+    inner:
+      serializedVersion: 2
+      x: 494
+      y: 236
+      width: 146
+      height: 32
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: superpose_powerup
+    outer:
+      serializedVersion: 2
+      x: 222
+      y: 921
+      width: 52
+      height: 50
+    inner:
+      serializedVersion: 2
+      x: 222
+      y: 921
+      width: 52
+      height: 50
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: white_bg_results
+    outer:
+      serializedVersion: 2
+      x: 2
+      y: 2
+      width: 328
+      height: 400
+    inner:
+      serializedVersion: 2
+      x: 2
+      y: 2
+      width: 328
+      height: 400
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: x_button_default
+    outer:
+      serializedVersion: 2
+      x: 863
+      y: 456
+      width: 57
+      height: 53
+    inner:
+      serializedVersion: 2
+      x: 863
+      y: 456
+      width: 57
+      height: 53
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: x_button_default_touched
+    outer:
+      serializedVersion: 2
+      x: 804
+      y: 456
+      width: 57
+      height: 53
+    inner:
+      serializedVersion: 2
+      x: 804
+      y: 456
+      width: 57
+      height: 53
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: x2_stars_powerup
+    outer:
+      serializedVersion: 2
+      x: 968
+      y: 277
+      width: 53
+      height: 53
+    inner:
+      serializedVersion: 2
+      x: 968
+      y: 277
+      width: 53
+      height: 53
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: x2_stars_powerup_glow
+    outer:
+      serializedVersion: 2
+      x: 968
+      y: 222
+      width: 53
+      height: 53
+    inner:
+      serializedVersion: 2
+      x: 968
+      y: 222
+      width: 53
+      height: 53
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
   mCoordinates: 0
   mPixelSize: 1
   mReplacement: {fileID: 0}

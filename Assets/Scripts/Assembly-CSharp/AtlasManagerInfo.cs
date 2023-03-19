@@ -6,9 +6,9 @@ public class AtlasManagerInfo
 
 	public static int SDResolutionCutOff = 640;
 
-	public static int HDResolutionCutOff = 1280;
+	public static int HDResolutionCutOff = 1200;
 
-	public static int SHDResolutionStart = 1280;
+	public static int SHDResolutionStart = 1200;
 
 	public static bool IsEnabled
 	{
