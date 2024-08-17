@@ -11164,7 +11164,7 @@ MonoBehaviour:
   mFont: {fileID: 114879826150557391, guid: c407060bd1b57cc4482325452d74962f, type: 2}
   mText: "Original game by American Girl and Splashworks, Inc.\nPlayStation Vita, PC and
     ARM64 Android conversions by huckleberrypie and ParkingLotGames.\nBuilt using
-    Unity 2018.2.19f1 with NGUI 2.7.0.\n\nThe developers of this port are not in any
+    Unity with NGUI 2.7.0.\n\nThe developers of this port are not in any
     way affiliated with American Girl, Mattel, or Splashworks. We do not claim to
     own any copyrighted material that may appear in this game, nor do we profit off
     of said material. Furthermore, the developers claim fair use per a DMCA exemption

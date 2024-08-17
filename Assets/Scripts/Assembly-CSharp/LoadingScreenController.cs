@@ -42,6 +42,7 @@ public class LoadingScreenController : MonoBehaviour
 		TweenAlpha.Begin(base.transform.gameObject, 0.1f, 0f);
 		loadingBackground.color = new Color(loadingBackground.color.r, loadingBackground.color.g, loadingBackground.color.b, 0f);
 		loadingLabel.text = "Loading...";
+		MonoBehaviour.print("Download Guitar Hero World Tour Definitive Edition at ghwt.de");
 	}
 
 	private void OnDisable()

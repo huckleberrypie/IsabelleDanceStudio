@@ -253,7 +253,8 @@ public class SpawnManager : MonoBehaviour
 		}
 		else
 		{
-			GetComponent<ParticleEmitter>();
+			// GetComponent<ParticleEmitter>();
+			// Is this really needed?
 		}
 	}
 
